@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nhom11.props" />
+</Project>

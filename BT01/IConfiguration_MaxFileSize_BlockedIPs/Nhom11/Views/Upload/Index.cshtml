@@ -1,0 +1,12 @@
+﻿@{
+  ViewData["Title"] = "Up Load";
+}
+<h2>Upload Settings</h2>
+<p>Dung lượng tối đa: @ViewBag.MaxFileSizeMB</p>
+
+<h3>Danh sách IP bị cấm:</h3>
+<ul>
+  @foreach (var ip in ViewBag.BlockedIPs) {
+    <li>@ip</li>
+  }
+</ul>
