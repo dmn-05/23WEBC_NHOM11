@@ -1,0 +1,122 @@
+[
+  {
+    "Username": "admin",
+    "Password": "123",
+    "Role": 1
+  },
+  {
+    "Username": "editor",
+    "Password": "456",
+    "Role": 2
+  },
+  {
+    "Username": "viewer",
+    "Password": "789",
+    "Role": 3
+  },
+  {
+    "Username": "admin",
+    "Password": "123",
+    "Role": 1
+  },
+  {
+    "Username": "editor",
+    "Password": "456",
+    "Role": 2
+  },
+  {
+    "Username": "viewer",
+    "Password": "789",
+    "Role": 3
+  },
+  {
+    "Username": "admin",
+    "Password": "123",
+    "Role": 1
+  },
+  {
+    "Username": "editor",
+    "Password": "456",
+    "Role": 2
+  },
+  {
+    "Username": "viewer",
+    "Password": "789",
+    "Role": 3
+  },
+  {
+    "Username": "admin",
+    "Password": "123",
+    "Role": 1
+  },
+  {
+    "Username": "editor",
+    "Password": "456",
+    "Role": 2
+  },
+  {
+    "Username": "viewer",
+    "Password": "789",
+    "Role": 3
+  },
+  {
+    "Username": "admin",
+    "Password": "123",
+    "Role": 1
+  },
+  {
+    "Username": "editor",
+    "Password": "456",
+    "Role": 2
+  },
+  {
+    "Username": "viewer",
+    "Password": "789",
+    "Role": 3
+  },
+  {
+    "Username": "admin",
+    "Password": "123",
+    "Role": 1
+  },
+  {
+    "Username": "editor",
+    "Password": "456",
+    "Role": 2
+  },
+  {
+    "Username": "viewer",
+    "Password": "789",
+    "Role": 3
+  },
+  {
+    "Username": "admin",
+    "Password": "123",
+    "Role": 1
+  },
+  {
+    "Username": "editor",
+    "Password": "456",
+    "Role": 2
+  },
+  {
+    "Username": "viewer",
+    "Password": "789",
+    "Role": 3
+  },
+  {
+    "Username": "admin",
+    "Password": "123",
+    "Role": 1
+  },
+  {
+    "Username": "editor",
+    "Password": "456",
+    "Role": 2
+  },
+  {
+    "Username": "viewer",
+    "Password": "789",
+    "Role": 3
+  }
+]

@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.Net Core\\01_DI_BTNhom11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\models\\userlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\models\\userlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\middlewares\\usermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\middlewares\\usermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\01_di_btnhom11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\01_di_btnhom11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|d:\\asp.net core\\01_di_btnhom11\\01_di_btnhom11\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9451C7-E541-49B9-ABC3-348D64B9AFDB}|01_DI_BTNhom11\\01_DI_BTNhom11.csproj|solutionrelative:01_di_btnhom11\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserListViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Models\\UserListViewModel.cs",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Models\\UserListViewModel.cs",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Models\\UserListViewModel.cs",
+              "RelativeToolTip": "01_DI_BTNhom11\\Models\\UserListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T07:47:36.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "01_DI_BTNhom11\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T07:49:31.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "01_DI_BTNhom11\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T07:44:08.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Views\\Home\\NotFound.cshtml",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "01_DI_BTNhom11\\Views\\Home\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T18:34:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "01_DI_BTNhom11\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T07:38:23.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Services\\UserService.cs",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Services\\UserService.cs",
+              "RelativeToolTip": "01_DI_BTNhom11\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:47:37.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Services\\IUserService.cs",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Services\\IUserService.cs",
+              "RelativeToolTip": "01_DI_BTNhom11\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:51:45.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users.json",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\users.json",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\users.json",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\users.json",
+              "RelativeToolTip": "01_DI_BTNhom11\\users.json",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwGUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T18:54:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Program.cs",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Program.cs",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Program.cs",
+              "RelativeToolTip": "01_DI_BTNhom11\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T07:51:52.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Models\\User.cs",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Models\\User.cs",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Models\\User.cs",
+              "RelativeToolTip": "01_DI_BTNhom11\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:45:48.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "01_DI_BTNhom11\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T07:30:27.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserMiddleware.cs",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Middlewares\\UserMiddleware.cs",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Middlewares\\UserMiddleware.cs",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Middlewares\\UserMiddleware.cs",
+              "RelativeToolTip": "01_DI_BTNhom11\\Middlewares\\UserMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:48:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "01_DI_BTNhom11",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\01_DI_BTNhom11.csproj",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\01_DI_BTNhom11.csproj",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\01_DI_BTNhom11.csproj",
+              "RelativeToolTip": "01_DI_BTNhom11\\01_DI_BTNhom11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T18:47:44.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01_DI_BTNhom11\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T07:32:04.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "01_DI_BTNhom11\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP.Net Core\\01_DI_BTNhom11\\01_DI_BTNhom11\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "01_DI_BTNhom11\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T07:30:35.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
