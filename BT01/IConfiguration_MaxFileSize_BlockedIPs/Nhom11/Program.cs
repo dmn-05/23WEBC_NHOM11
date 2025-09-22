@@ -1,6 +1,9 @@
 using Nhom11;
+using Nhom11.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+//Dang ky UserService cho DI dang Scoped -Khai 21/09/2025
+builder.Services.AddScoped<IUserService, UserService>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
