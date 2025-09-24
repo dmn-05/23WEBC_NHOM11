@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\request.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\request.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\middlewares\\requestloggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\middlewares\\requestloggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|d:\\hk5v2\\asp.net core\\tuan04\\23webc_nhom11_tuan04\\23webc_nhom11_tuan04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCEA69D-52AD-4275-BEAF-C0C29D861108}|23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04.csproj|solutionrelative:23webc_nhom11_tuan04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "request.log",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\request.log",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\request.log",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\request.log",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\request.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-09-23T15:49:48.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestLoggingMiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Middlewares\\RequestLoggingMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\Middlewares\\RequestLoggingMiddlewareExtensions.cs",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Middlewares\\RequestLoggingMiddlewareExtensions.cs",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\Middlewares\\RequestLoggingMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:41:40.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Program.cs",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\Program.cs",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Program.cs",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:44:23.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:33:06.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\appsettings.json",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\appsettings.json",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\appsettings.json",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T07:21:52.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-17T06:50:35.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T06:44:42.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:44:35.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "23WEBC_Nhom11_Tuan04\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HK5V2\\ASP.NET Core\\Tuan04\\23WEBC_Nhom11_Tuan04\\23WEBC_Nhom11_Tuan04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "23WEBC_Nhom11_Tuan04\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:44:34.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
