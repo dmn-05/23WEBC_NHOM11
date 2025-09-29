@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\User\**" />
+    <Content Remove="Areas\User\**" />
+    <EmbeddedResource Remove="Areas\User\**" />
+    <None Remove="Areas\User\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Product\Checkout.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\admin\Controllers\" />
     <Folder Include="wwwroot\admin\Models\" />
     <Folder Include="wwwroot\admin\Views\" />
