@@ -1,20 +1,33 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Tuan06.Services;
+using Tuan06.Models;
 
-namespace Tuan06.Controllers
-{
-    public class ProductController : Controller
-    {
-        public IActionResult Index()
-        {
-            return View();
-        }
-        public IActionResult Single()
-        {
-            return View();
-        }
-        public IActionResult Checkout()
-        {
-            return View();
-        }
+namespace Tuan06.Controllers {
+  [Route("Product")]
+  public class ProductController : Controller {
+    private readonly IProductService _ProductService;
+    // Begin Nhat
+    public ProductController(IProductService ProductService) {
+      _ProductService = ProductService;
     }
+
+    [HttpGet("")]
+    public IActionResult Index() {
+      var products = _ProductService.GetAll(); // giả sử trả về List<Product>
+      return View(products); // truyền qua View
+    }
+    [HttpGet("single")]
+    public IActionResult Single() {
+      return View(); // Chưa đổ dữ liệu vào trang single
+    }
+
+    [HttpGet("{id}")]
+    public IActionResult GetById(int id) {
+      var sp = _ProductService.GetById(id);
+      if (sp == null) return NotFound();
+      return Ok(sp);
+    }
+
+    // End Nhat
+  }
 }

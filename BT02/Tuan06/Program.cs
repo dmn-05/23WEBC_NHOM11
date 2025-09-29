@@ -1,7 +1,10 @@
 using Microsoft.Extensions.FileProviders;
 using System.IO;
+using Tuan06.Services;
 var builder = WebApplication.CreateBuilder(args);
-
+// Begin Nhat
+builder.Services.AddSingleton<IProductService, ProductService>();
+// End Nhat
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

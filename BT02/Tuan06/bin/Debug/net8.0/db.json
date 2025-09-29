@@ -1,0 +1,182 @@
+[
+  {
+    "MaSP": 1,
+    "TenSP": "Bàn chải đánh răng",
+    "DonGia": 50000,
+    "DonGiaKhuyenMai": 42000,
+    "HinhAnh": "https://byvn.net/Nwby",
+    "MoTa": "Bàn chải đánh răng là dụng cụ vệ sinh răng miệng với lông mềm hoặc trung bình giúp loại bỏ mảng bám và thức ăn thừa. Thiết kế tiện lợi, dễ cầm, bảo vệ nướu và men răng.",
+    "LoaiSP": "Chăm sóc răng miệng"
+  },
+  {
+    "MaSP": 2,
+    "TenSP": "Kem đánh răng",
+    "DonGia": 65000,
+    "DonGiaKhuyenMai": 55000,
+    "HinhAnh": "https://byvn.net/d0gG",
+    "MoTa": "Kem đánh răng với công thức chống sâu răng, giúp hơi thở thơm mát và bảo vệ men răng suốt cả ngày.",
+    "LoaiSP": "Chăm sóc răng miệng"
+  },
+  {
+    "MaSP": 3,
+    "TenSP": "Xà phòng tắm",
+    "DonGia": 30000,
+    "DonGiaKhuyenMai": 25000,
+    "HinhAnh": "https://byvn.net/GdCf",
+    "MoTa": "Xà phòng tắm hương dịu nhẹ, tạo bọt mịn, giúp làm sạch da và khử mùi hiệu quả.",
+    "LoaiSP": "Chăm sóc cá nhân"
+  },
+  {
+    "MaSP": 4,
+    "TenSP": "Sữa tắm",
+    "DonGia": 120000,
+    "DonGiaKhuyenMai": 99000,
+    "HinhAnh": "https://byvn.net/wIRg",
+    "MoTa": "Sữa tắm dưỡng ẩm với hương thơm tươi mát, giúp làn da mềm mịn suốt ngày dài.",
+    "LoaiSP": "Chăm sóc cá nhân"
+  },
+  {
+    "MaSP": 5,
+    "TenSP": "Dầu gội đầu",
+    "DonGia": 150000,
+    "DonGiaKhuyenMai": 130000,
+    "HinhAnh": "https://byvn.net/tslQ",
+    "MoTa": "Dầu gội giúp làm sạch tóc và da đầu, ngăn gàu, mang lại mái tóc chắc khỏe và óng mượt.",
+    "LoaiSP": "Chăm sóc tóc"
+  },
+  {
+    "MaSP": 6,
+    "TenSP": "Dầu xả tóc",
+    "DonGia": 160000,
+    "DonGiaKhuyenMai": 140000,
+    "HinhAnh": "https://byvn.net/Pav4",
+    "MoTa": "Dầu xả dưỡng tóc mềm mượt, dễ chải và giảm hư tổn do tác động môi trường.",
+    "LoaiSP": "Chăm sóc tóc"
+  },
+  {
+    "MaSP": 7,
+    "TenSP": "Khăn mặt",
+    "DonGia": 45000,
+    "DonGiaKhuyenMai": 39000,
+    "HinhAnh": "https://byvn.net/f8lG",
+    "MoTa": "Khăn mặt cotton mềm mại, thấm hút tốt, an toàn cho da mặt.",
+    "LoaiSP": "Đồ gia dụng"
+  },
+  {
+    "MaSP": 8,
+    "TenSP": "Khăn tắm",
+    "DonGia": 120000,
+    "DonGiaKhuyenMai": 105000,
+    "HinhAnh": "https://byvn.net/ANyi",
+    "MoTa": "Khăn tắm sợi cotton lớn, thấm hút nhanh, tạo cảm giác dễ chịu sau khi tắm.",
+    "LoaiSP": "Đồ gia dụng"
+  },
+  {
+    "MaSP": 9,
+    "TenSP": "Giấy vệ sinh",
+    "DonGia": 80000,
+    "DonGiaKhuyenMai": 70000,
+    "HinhAnh": "https://byvn.net/yHpH",
+    "MoTa": "Giấy vệ sinh 3 lớp mềm mịn, dai, an toàn cho da.",
+    "LoaiSP": "Vệ sinh cá nhân"
+  },
+  {
+    "MaSP": 10,
+    "TenSP": "Khăn giấy ướt",
+    "DonGia": 35000,
+    "DonGiaKhuyenMai": 30000,
+    "HinhAnh": "https://byvn.net/8573",
+    "MoTa": "Khăn giấy ướt kháng khuẩn, tiện lợi khi đi ra ngoài hoặc chăm sóc trẻ nhỏ.",
+    "LoaiSP": "Vệ sinh cá nhân"
+  },
+  {
+    "MaSP": 11,
+    "TenSP": "Nước rửa tay",
+    "DonGia": 60000,
+    "DonGiaKhuyenMai": 52000,
+    "HinhAnh": "https://byvn.net/Yrn3",
+    "MoTa": "Nước rửa tay diệt khuẩn, bảo vệ da tay, hương thơm dễ chịu.",
+    "LoaiSP": "Chăm sóc cá nhân"
+  },
+  {
+    "MaSP": 12,
+    "TenSP": "Nước súc miệng",
+    "DonGia": 95000,
+    "DonGiaKhuyenMai": 87000,
+    "HinhAnh": "https://byvn.net/tWG5",
+    "MoTa": "Nước súc miệng kháng khuẩn, bảo vệ răng miệng, cho hơi thở thơm mát dài lâu.",
+    "LoaiSP": "Chăm sóc răng miệng"
+  },
+  {
+    "MaSP": 13,
+    "TenSP": "Bột giặt",
+    "DonGia": 180000,
+    "DonGiaKhuyenMai": 160000,
+    "HinhAnh": "https://byvn.net/x6Gr",
+    "MoTa": "Bột giặt tẩy sạch vết bẩn, giữ quần áo trắng sáng và thơm lâu.",
+    "LoaiSP": "Giặt tẩy"
+  },
+  {
+    "MaSP": 14,
+    "TenSP": "Nước giặt",
+    "DonGia": 190000,
+    "DonGiaKhuyenMai": 170000,
+    "HinhAnh": "https://byvn.net/6tFD",
+    "MoTa": "Nước giặt đậm đặc, làm sạch hiệu quả, dễ hòa tan và không để lại cặn.",
+    "LoaiSP": "Giặt tẩy"
+  },
+  {
+    "MaSP": 15,
+    "TenSP": "Nước xả vải",
+    "DonGia": 120000,
+    "DonGiaKhuyenMai": 100000,
+    "HinhAnh": "https://byvn.net/Fb9S",
+    "MoTa": "Nước xả vải giúp quần áo mềm mại, hương thơm bền lâu suốt cả ngày.",
+    "LoaiSP": "Giặt tẩy"
+  },
+  {
+    "MaSP": 16,
+    "TenSP": "Nước rửa chén",
+    "DonGia": 50000,
+    "DonGiaKhuyenMai": 42000,
+    "HinhAnh": "https://byvn.net/XLMc",
+    "MoTa": "Nước rửa chén dịu nhẹ, khử dầu mỡ, an toàn cho da tay.",
+    "LoaiSP": "Đồ dùng bếp"
+  },
+  {
+    "MaSP": 17,
+    "TenSP": "Miếng rửa chén",
+    "DonGia": 20000,
+    "DonGiaKhuyenMai": 15000,
+    "HinhAnh": "https://byvn.net/ZP6H",
+    "MoTa": "Miếng rửa chén bọt biển, làm sạch xoong nồi hiệu quả, bền chắc.",
+    "LoaiSP": "Đồ dùng bếp"
+  },
+  {
+    "MaSP": 18,
+    "TenSP": "Thùng rác nhựa",
+    "DonGia": 85000,
+    "DonGiaKhuyenMai": 75000,
+    "HinhAnh": "https://byvn.net/gy8F",
+    "MoTa": "Thùng rác nhựa có nắp đậy, dung tích vừa phải, giữ vệ sinh cho gia đình.",
+    "LoaiSP": "Gia dụng"
+  },
+  {
+    "MaSP": 19,
+    "TenSP": "Nước lau sàn",
+    "DonGia": 95000,
+    "DonGiaKhuyenMai": 83000,
+    "HinhAnh": "https://byvn.net/qGxE",
+    "MoTa": "Nước lau sàn hương thơm dịu nhẹ, diệt khuẩn, cho sàn nhà sạch bóng.",
+    "LoaiSP": "Vệ sinh nhà cửa"
+  },
+  {
+    "MaSP": 20,
+    "TenSP": "Bình nước giữ nhiệt",
+    "DonGia": 220000,
+    "DonGiaKhuyenMai": 190000,
+    "HinhAnh": "https://byvn.net/TrMd",
+    "MoTa": "Bình nước giữ nhiệt inox cao cấp, giữ nóng/lạnh lâu, tiện lợi khi di chuyển.",
+    "LoaiSP": "Gia dụng"
+  }
+]
