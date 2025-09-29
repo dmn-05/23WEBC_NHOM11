@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET\\Nhom11\\Nhom11\\Nhom11.csproj",
+      "projectUniqueName": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Nhom11.csproj",
       "projectName": "Nhom11",
-      "projectPath": "D:\\ASP.NET\\Nhom11\\Nhom11\\Nhom11.csproj",
+      "projectPath": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Nhom11.csproj",
       "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET\\Nhom11\\Nhom11\\obj\\",
+      "outputPath": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
