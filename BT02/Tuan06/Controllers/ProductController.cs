@@ -28,6 +28,16 @@ namespace Tuan06.Controllers {
       return Ok(sp);
     }
 
-    // End Nhat
-  }
+        // End Nhat
+
+        // Begin Phat
+        [HttpGet("detail/{id}")]
+        public IActionResult Detail(int id)
+        {
+            var sp = _ProductService.GetById(id);
+            if (sp == null) return NotFound();
+            return View("Single", sp);
+        }
+        // End Phat
+    }
 }

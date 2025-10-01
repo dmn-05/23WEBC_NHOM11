@@ -7,7 +7,9 @@ builder.Services.AddSingleton<IProductService, ProductService>();
 // End Nhat
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+// begin phat
+builder.Services.AddSession();
+// end phat
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -22,7 +24,10 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+// bigin phat
+app.UseSession();
 
+// end phat
 app.UseAuthorization();
 
 app.MapControllerRoute(
