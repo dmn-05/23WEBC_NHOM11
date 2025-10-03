@@ -4,9 +4,9 @@ using Tuan06.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Begin Nhat
+// Begin Khai
 builder.Services.AddSingleton<IProductService, ProductService>();
-// End Nhat
+// End Khai
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -22,7 +22,6 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true; // session ho?t ð?ng k? c? khi user t?t consent cookie
 });
 // end phat
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -36,11 +35,9 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
 // begin phat
 app.UseSession(); // ph?i ð?t trý?c UseAuthorization và MapControllerRoute
 // end phat
-
 app.UseAuthorization();
 
 app.MapControllerRoute(

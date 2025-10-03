@@ -6,7 +6,7 @@ using Tuan06.Models;
 namespace Tuan06.Services {
   public class ProductService : IProductService {
     private List<Product> _products;
-
+    //middleware_Begin_Khai
     public ProductService() {
       // Đọc file db.json
       var jsonData = File.ReadAllText("db.json");

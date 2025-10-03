@@ -1,21 +1,26 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Tuan06.Models;
-
+using Tuan06.Services;
 namespace Tuan06.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IProductService _productService;
+        //Tiêm DI
+        public HomeController(IProductService productService, ILogger<HomeController> logger)
         {
+            _productService = productService;
             _logger = logger;
         }
 
+        
+        //Khai_Lấy 8 sp đầu tiên trong danh sách
         public IActionResult Index()
         {
-            return View();
+            var products=_productService.GetAll().Take(8).ToList();
+            return View(products); //truyen sang view
         }
 
         public IActionResult Contact()

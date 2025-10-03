@@ -1,5 +1,4 @@
-﻿//phát
-
+//begin phat
 using Microsoft.AspNetCore.Mvc;
 using Tuan06.Models;
 using Tuan06.Services;
@@ -23,7 +22,7 @@ namespace Tuan06.Controllers
             ViewBag.Total = cart.Sum(x => x.SubTotal);
             return View(cart);
         }
-         
+
         // Thêm sản phẩm vào giỏ
         public IActionResult Add(int id, int qty = 1)
         {
@@ -32,7 +31,6 @@ namespace Tuan06.Controllers
 
             var cart = HttpContext.Session.GetObject<List<CartItem>>(CART_KEY) ?? new List<CartItem>();
             var item = cart.FirstOrDefault(x => x.MaSP == id);
-
             if (item == null)
             {
                 cart.Add(new CartItem
@@ -63,7 +61,6 @@ namespace Tuan06.Controllers
             var cart = HttpContext.Session.GetObject<List<CartItem>>(CART_KEY) ?? new List<CartItem>();
             cart.RemoveAll(x => x.MaSP == id);
             HttpContext.Session.SetObject(CART_KEY, cart);
-
             HttpContext.Session.SetInt32("CartCount", cart.Sum(x => x.Qty));
             HttpContext.Session.SetString("CartTotal", cart.Sum(x => x.SubTotal).ToString("N0"));
 
@@ -71,3 +68,4 @@ namespace Tuan06.Controllers
         }
     }
 }
+//end phat
