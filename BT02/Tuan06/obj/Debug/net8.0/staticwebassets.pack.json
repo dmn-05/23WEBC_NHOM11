@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tuan06.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\timeline.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\timeline.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\admin\\dist\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\admin\\js\\flot-data.js",
+      "PackagePath": "staticwebassets\\admin\\js\\flot-data.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\admin\\js\\morris-data.js",
+      "PackagePath": "staticwebassets\\admin\\js\\morris-data.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\admin\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\admin\\less\\sb-admin-2.less",
+      "PackagePath": "staticwebassets\\admin\\less\\sb-admin-2.less"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\admin\\less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\user\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\user\\css\\flexslider.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\css\\form.css",
+      "PackagePath": "staticwebassets\\user\\css\\form.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\user\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\css\\memenu.css",
+      "PackagePath": "staticwebassets\\user\\css\\memenu.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\css\\style.css",
+      "PackagePath": "staticwebassets\\user\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Bold.ttf",
+      "PackagePath": "staticwebassets\\user\\fonts\\Dosis-Bold.ttf"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Medium.ttf",
+      "PackagePath": "staticwebassets\\user\\fonts\\Dosis-Medium.ttf"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Regular.ttf",
+      "PackagePath": "staticwebassets\\user\\fonts\\Dosis-Regular.ttf"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\user\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\b-arrow.png",
+      "PackagePath": "staticwebassets\\user\\images\\b-arrow.png"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\bnr.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\bnr2.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\bnr3.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\user\\images\\close_1.png"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\do.png",
+      "PackagePath": "staticwebassets\\user\\images\\do.png"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\user\\images\\icon2.png"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\user\\images\\img-sprite.png"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\img1.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\img2.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\img3.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\img4.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\img5.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img6.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\img6.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img7.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\img7.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\img8.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\img8.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\ofr.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr2.jpeg",
+      "PackagePath": "staticwebassets\\user\\images\\ofr2.jpeg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\ofr3.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p1.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p10.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p10.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p11.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p11.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p12.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p12.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p2.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p3.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p4 copy.JPG",
+      "PackagePath": "staticwebassets\\user\\images\\p4 copy.JPG"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p4.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p5.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p6.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p6.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p7.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p7.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p8.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p8.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\p9.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\p9.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\si.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\si.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\si2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\si2.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\si3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\si3.jpg"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\social.png",
+      "PackagePath": "staticwebassets\\user\\images\\social.png"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\images\\sp.png",
+      "PackagePath": "staticwebassets\\user\\images\\sp.png"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\user\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\user\\js\\imagezoom.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.jscrollpane.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.jscrollpane.min.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\memenu.js",
+      "PackagePath": "staticwebassets\\user\\js\\memenu.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\wwwroot\\user\\js\\simpleCart.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\simpleCart.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tuan06.props",
+      "PackagePath": "build\\Tuan06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tuan06.props",
+      "PackagePath": "buildMultiTargeting\\Tuan06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tuan06.props",
+      "PackagePath": "buildTransitive\\Tuan06.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

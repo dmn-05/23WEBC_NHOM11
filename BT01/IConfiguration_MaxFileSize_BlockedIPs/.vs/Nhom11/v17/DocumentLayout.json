@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP.NET\\Nhom11\\",
+  "WorkspaceRootPath": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\asp.net\\nhom11\\nhom11\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\asp.net\\nhom11\\nhom11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\asp.net\\nhom11\\nhom11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\asp.net\\nhom11\\nhom11\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\asp.net\\nhom11\\nhom11\\updatesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\23webc_nhom11\\bt01\\iconfiguration_maxfilesize_blockedips\\nhom11\\updatesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\updatesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\asp.net\\nhom11\\nhom11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\23webc_nhom11\\bt01\\iconfiguration_maxfilesize_blockedips\\nhom11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\asp.net\\nhom11\\nhom11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\23webc_nhom11\\bt01\\iconfiguration_maxfilesize_blockedips\\nhom11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\23webc_nhom11\\bt01\\iconfiguration_maxfilesize_blockedips\\nhom11\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\23webc_nhom11\\bt01\\iconfiguration_maxfilesize_blockedips\\nhom11\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\23webc_nhom11\\bt01\\iconfiguration_maxfilesize_blockedips\\nhom11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|d:\\23webc_nhom11\\bt01\\iconfiguration_maxfilesize_blockedips\\nhom11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1E7819-F4A8-43C4-9082-B1AAF9C817C0}|Nhom11\\Nhom11.csproj|solutionrelative:nhom11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,54 +38,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UploadController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\Nhom11\\Nhom11\\Controllers\\UploadController.cs",
+              "DocumentMoniker": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Controllers\\UploadController.cs",
               "RelativeDocumentMoniker": "Nhom11\\Controllers\\UploadController.cs",
-              "ToolTip": "D:\\ASP.NET\\Nhom11\\Nhom11\\Controllers\\UploadController.cs",
+              "ToolTip": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Controllers\\UploadController.cs",
               "RelativeToolTip": "Nhom11\\Controllers\\UploadController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T17:46:31.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T17:46:31.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Views\\Upload\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom11\\Views\\Upload\\Index.cshtml",
+              "ToolTip": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Views\\Upload\\Index.cshtml",
+              "RelativeToolTip": "Nhom11\\Views\\Upload\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T17:55:40.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom11\\Program.cs",
+              "ToolTip": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Program.cs",
+              "RelativeToolTip": "Nhom11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:43:19.888Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ASP.NET\\Nhom11\\Nhom11\\Views\\Upload\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nhom11\\Views\\Upload\\Index.cshtml",
-              "ToolTip": "D:\\ASP.NET\\Nhom11\\Nhom11\\Views\\Upload\\Index.cshtml",
-              "RelativeToolTip": "Nhom11\\Views\\Upload\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T17:55:40.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\Nhom11\\Nhom11\\Program.cs",
-              "RelativeDocumentMoniker": "Nhom11\\Program.cs",
-              "ToolTip": "D:\\ASP.NET\\Nhom11\\Nhom11\\Program.cs",
-              "RelativeToolTip": "Nhom11\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T17:43:19.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "UpdateSettings.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\Nhom11\\Nhom11\\UpdateSettings.cs",
+              "DocumentMoniker": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\UpdateSettings.cs",
               "RelativeDocumentMoniker": "Nhom11\\UpdateSettings.cs",
-              "ToolTip": "D:\\ASP.NET\\Nhom11\\Nhom11\\UpdateSettings.cs",
+              "ToolTip": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\UpdateSettings.cs",
               "RelativeToolTip": "Nhom11\\UpdateSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,42 +91,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ASP.NET\\Nhom11\\Nhom11\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Nhom11\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\ASP.NET\\Nhom11\\Nhom11\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Nhom11\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T17:25:32.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T17:25:32.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nhom11\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nhom11\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:14:19.245Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\Nhom11\\Nhom11\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Nhom11\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\ASP.NET\\Nhom11\\Nhom11\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Nhom11\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T17:14:19.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ASP.NET\\Nhom11\\Nhom11\\appsettings.json",
+              "DocumentMoniker": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\appsettings.json",
               "RelativeDocumentMoniker": "Nhom11\\appsettings.json",
-              "ToolTip": "D:\\ASP.NET\\Nhom11\\Nhom11\\appsettings.json",
+              "ToolTip": "D:\\23WEBC_NHOM11\\BT01\\IConfiguration_MaxFileSize_BlockedIPs\\Nhom11\\appsettings.json",
               "RelativeToolTip": "Nhom11\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-19T17:11:59.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T17:11:59.967Z"
             }
           ]
         }
