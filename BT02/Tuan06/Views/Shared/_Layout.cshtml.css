@@ -46,3 +46,11 @@ button.accept-policy {
   white-space: nowrap;
   line-height: 60px;
 }
+.card:hover .overlay {
+    opacity: 1;
+}
+
+.overlay {
+    opacity: 0;
+    transition: opacity .3s;
+}

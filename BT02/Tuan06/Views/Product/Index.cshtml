@@ -1,46 +1,49 @@
 ﻿@model IEnumerable<Tuan06.Models.Product>
-<style>
-  .product-img img {
-    width: 100%; /* ảnh luôn full ngang */
-    height: 250px; /* cố định chiều cao khung */
-    object-fit: cover; /* phóng to, cắt ảnh để vừa khung */
-    border-radius: 8px; /* bo góc cho đẹp (tuỳ chọn) */
-  }
-</style>
-<div class="product-model">
-  <div class="container">
-    <h2>Our Products</h2>
-    <div class="col-md-9 product-model-sec">
-      @foreach (var item in Model) {
-        <div class="product-grid">
-          <a asp-controller="Product" asp-action="GetById" asp-route-id="@item.MaSP">
-            <div class="more-product"><span></span></div>
-            <div class="product-img b-link-stripe b-animate-go thickbox">
-              <img src="@item.HinhAnh" alt="@item.TenSP" />
-              <div class="b-wrapper">
-                <h4 class="b-animate b-from-left b-delay03">
-                  <button>
-                    <span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
-                    Quick View
-                  </button>
-                </h4>
-              </div>
+
+<div class="container">
+    <h2>Danh sách sản phẩm</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="product-box" style="position:relative; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
+                    <!-- Ảnh -->
+                    <img src="/@item.HinhAnh" alt="@item.TenSP" style="width:100%; height:200px; object-fit:cover;" />
+
+                    <!-- Overlay nút Chi tiết -->
+                    <div class="hover-box"
+                         style="position:absolute; top:0; left:0; width:100%; height:100%;
+                                    background:rgba(0,0,0,0.5); display:flex; justify-content:center; align-items:center;
+                                    opacity:0; transition:all .3s;">
+                        <a asp-controller="Product" asp-action="Detail" asp-route-id="@item.MaSP" class="btn btn-light">Chi tiết</a>
+                    </div>
+
+                    <div style="padding:10px;">
+                        <h5>@item.TenSP</h5>
+                        <p>
+                            <del>@item.DonGia.ToString("N0") đ</del><br />
+                            <strong style="color:red">@item.DonGiaKhuyenMai.ToString("N0") đ</strong>
+                        </p>
+
+                        <!-- Form thêm vào giỏ -->
+                        <form asp-controller="Cart" asp-action="Add" method="get" style="display:flex; gap:5px;">
+                            <input type="hidden" name="id" value="@item.MaSP" />
+                            <input type="number" name="qty" value="1" min="1" class="form-control" style="width:70px" />
+                            <button type="submit" class="btn btn-success btn-sm">Thêm vào giỏ</button>
+                        </form>
+                    </div>
+                </div>
             </div>
-          </a>
-          <div class="product-info simpleCart_shelfItem">
-            <div class="product-info-cust prt_name">
-              <h4>@item.TenSP</h4>
-              <span class="item_price">
-                <del style="color: gray; font-size:14px;">@item.DonGia.ToString("N0") đ</del>
-                <strong style="color:red;">@item.DonGiaKhuyenMai.ToString("N0") đ</strong>
-              </span>
-              <input type="text" class="item_quantity" value="1" />
-              <input type="button" class="item_add items" value="ADD" />
-              <div class="clearfix"></div>
-            </div>
-          </div>
-        </div>
-      }
+        }
     </div>
-  </div>
 </div>
+
+<style>
+    .product-box:hover .hover-box {
+        opacity: 1;
+    }
+
+    .hover-box {
+        opacity: 0;
+    }
+</style>
