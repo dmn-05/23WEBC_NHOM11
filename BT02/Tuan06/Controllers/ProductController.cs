@@ -6,7 +6,7 @@ namespace Tuan06.Controllers {
   [Route("Product")]
   public class ProductController : Controller {
     private readonly IProductService _ProductService;
-    // Begin Nhat
+    // Begin Khai
     public ProductController(IProductService ProductService) {
       _ProductService = ProductService;
     }
@@ -28,7 +28,7 @@ namespace Tuan06.Controllers {
       return Ok(sp);
     }
 
-        // End Nhat
+        // End Khai
 
         // Begin Phat
         [HttpGet("detail/{id}")]

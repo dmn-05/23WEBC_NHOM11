@@ -102,3 +102,35 @@ D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
 D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.pdb
 D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
 D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\appsettings.Development.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\appsettings.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\db.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\Tuan06.exe
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\bin\Debug\net8.0\Tuan06.pdb
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfoInputs.cache
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfo.cs
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CoreCompileInputs.cache
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.MvcApplicationPartsAssemblyInfo.cache
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cache
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cs
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.sourcelink.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.build.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.development.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.build.Tuan06.props
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tuan06.props
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tuan06.props
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\scopedcss\bundle\Tuan06.styles.css
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\scopedcss\projectbundle\Tuan06.bundle.scp.css
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.pdb
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
+E:\Nam_Ba\asp\btnhom\Pull\BT02\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll

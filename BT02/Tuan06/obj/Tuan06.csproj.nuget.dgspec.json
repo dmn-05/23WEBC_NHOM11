@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder (2)\\BT02\\Tuan06\\Tuan06.csproj": {}
+    "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\Tuan06.csproj": {}
   },
   "projects": {
-    "D:\\New folder (2)\\BT02\\Tuan06\\Tuan06.csproj": {
+    "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\Tuan06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder (2)\\BT02\\Tuan06\\Tuan06.csproj",
+        "projectUniqueName": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\Tuan06.csproj",
         "projectName": "Tuan06",
-        "projectPath": "D:\\New folder (2)\\BT02\\Tuan06\\Tuan06.csproj",
-        "packagesPath": "C:\\Users\\Phat\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder (2)\\BT02\\Tuan06\\obj\\",
+        "projectPath": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\Tuan06.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "E:\\Nam_Ba\\asp\\btnhom\\Pull\\BT02\\Tuan06\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Phat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,13 +34,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
