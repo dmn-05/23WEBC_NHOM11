@@ -1,0 +1,5 @@
+﻿img {
+  width: 75%; /* ảnh luôn full ngang */
+  object-fit: cover; /* phóng to, cắt ảnh để vừa khung */
+  border-radius: 8px; /* bo góc cho đẹp (tuỳ chọn) */
+}

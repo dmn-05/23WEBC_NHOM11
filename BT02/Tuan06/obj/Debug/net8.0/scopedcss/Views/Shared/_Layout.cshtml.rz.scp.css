@@ -46,11 +46,3 @@ button.accept-policy[b-gn0ptgrjto] {
   white-space: nowrap;
   line-height: 60px;
 }
-.card:hover .overlay[b-gn0ptgrjto] {
-    opacity: 1;
-}
-
-.overlay[b-gn0ptgrjto] {
-    opacity: 0;
-    transition: opacity .3s;
-}

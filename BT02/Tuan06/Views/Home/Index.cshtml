@@ -1,62 +1,61 @@
 ﻿@model List<Product>
 
 @{
-    ViewData["Title"] = "Home Page";
+  ViewData["Title"] = "Home Page";
 }
 <div class="slider">
-    <div class="callbacks_container">
-        <ul class="rslides" id="slider">
-            <li>
-                <div class="banner1">
-                    <div class="banner-info">
-                        <h3>Không gian sáng bừng – Ngôi nhà thêm ấm áp</h3>
-                        <p>Chúng tôi mang đến những mẫu đèn hiện đại, tinh tế và phù hợp với mọi phong cách nội thất.</p>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="banner2">
-                    <div class="banner-info">
-                        <h3>Đèn trang trí đa dạng, giá cả hợp lý</h3>
-                        <p>Từ phòng khách, phòng ngủ đến quán café, nhà hàng – chúng tôi có đầy đủ lựa chọn cho bạn.</p>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="banner3">
-                    <div class="banner-info">
-                        <h3>Uy tín – Chất lượng – Tận tâm</h3>
-                        <p>Mỗi sản phẩm đều được chọn lọc kỹ càng, cam kết bền đẹp và an toàn khi sử dụng.</p>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </div>
+  <div class="callbacks_container">
+    <ul class="rslides" id="slider">
+      <li>
+        <div class="banner1">
+          <div class="banner-info">
+            <h3>Không gian sáng bừng – Ngôi nhà thêm ấm áp</h3>
+            <p>Chúng tôi mang đến những mẫu đèn hiện đại, tinh tế và phù hợp với mọi phong cách nội thất.</p>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="banner2">
+          <div class="banner-info">
+            <h3>Đèn trang trí đa dạng, giá cả hợp lý</h3>
+            <p>Từ phòng khách, phòng ngủ đến quán café, nhà hàng – chúng tôi có đầy đủ lựa chọn cho bạn.</p>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="banner3">
+          <div class="banner-info">
+            <h3>Uy tín – Chất lượng – Tận tâm</h3>
+            <p>Mỗi sản phẩm đều được chọn lọc kỹ càng, cam kết bền đẹp và an toàn khi sử dụng.</p>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
 </div>
 
 <div class="items">
-    <div class="container">
-        <div class="items-sec">
-            <div class="row">
-                @foreach (var item in Model)
-                {
-                    <div class="col-md-3 feature-grid">
-                        <img src="@item.HinhAnh" alt="@item.TenSP" style="width:70%; height:200px; object-fit:cover;" />
-                        <div class="arrival-info">
-                            <h4>@item.TenSP</h4>
-                            <p>@item.DonGiaKhuyenMai.ToString("N0") ₫</p>
-                            <span class="pric1"><del>@item.DonGia.ToString("N0") ₫</del></span>
-                            <span class="disc">
-                                [@((int)(100 - (item.DonGiaKhuyenMai / item.DonGia * 100)))% Off]
-                            </span>
-                        </div>
-                        <div class="viw">
-                            <a href="/Product/Details/@item.MaSP"><span class="glyphicon glyphicon-eye-open"></span> View</a>
-                        </div>
-                    </div>
-                }
+  <div class="container">
+    <div class="items-sec">
+      <div class="row">
+        @foreach (var item in Model) {
+          <div class="col-md-3 feature-grid">
+            <img src="@item.HinhAnh" alt="@item.TenSP"/>
+            <div class="arrival-info">
+              <h4>@item.TenSP</h4>
+              <p>@item.DonGiaKhuyenMai.ToString("N0") ₫</p>
+              <span class="pric1"><del>@item.DonGia.ToString("N0") ₫</del></span>
+              <span class="disc">
+                [@((int)(100 - (item.DonGiaKhuyenMai / item.DonGia * 100)))% Off]
+              </span>
             </div>
-        </div>
+            <div class="viw">
+              <a href="/Product/detail/@item.MaSP"><span class="glyphicon glyphicon-eye-open"></span> View</a>
+            </div>
+          </div>
+        }
+      </div>
     </div>
+  </div>
 </div>
 

@@ -6,27 +6,25 @@ namespace Tuan06.Controllers {
   [Route("Product")]
   public class ProductController : Controller {
     private readonly IProductService _ProductService;
-    // Begin Khai
+    // Begin Nhat
     public ProductController(IProductService ProductService) {
       _ProductService = ProductService;
     }
 
-        [HttpGet("")]
-        public IActionResult Index()
-        {
-            var products = _ProductService.GetAll(); // giả sử trả về List<Product>
-            return View(products); // truyền qua View
-        }
-
-
-        // Begin Phat
-        [HttpGet("detail/{id}")]
-        public IActionResult Detail(int id)
-        {
-            var sp = _ProductService.GetById(id);
-            if (sp == null) return NotFound();
-            return View("Single", sp);
-        }
-        // End Phat
+    [HttpGet("")]
+    public IActionResult Index() {
+      var products = _ProductService.GetAll(); // giả sử trả về List<Product>
+      return View(products); // truyền qua View
     }
+
+    // Begin Phat
+    [HttpGet("detail/{id}")]
+    public IActionResult Detail(int id)
+    {
+        var sp = _ProductService.GetById(id);
+        if (sp == null) return NotFound();
+        return View("Single", sp);
+    }
+    // End Phat
+  }
 }

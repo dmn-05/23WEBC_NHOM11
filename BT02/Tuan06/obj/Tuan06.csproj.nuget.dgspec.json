@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\Tuan06.csproj",
         "projectName": "Tuan06",
         "projectPath": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\Tuan06.csproj",
-        "packagesPath": "C:\\Users\\Phat\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
         "outputPath": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Phat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿﻿
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>Lighting A Ecommerce Category Flat Bootstarp Resposive Website Template | Home :: w3layouts</title>
@@ -18,6 +19,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<script src="/user/js/simpleCart.min.js"> </script>
 	<!-- start menu -->
 	<link href="/user/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/user/css/custom.css" rel="stylesheet" type="text/css" media="all" />
 	<script type="text/javascript" src="/user/js/memenu.js"></script>
 	<script>$(document).ready(function(){$(".memenu").memenu();});</script>
 </head>
@@ -26,13 +28,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<script src="/user/js/responsiveslides.min.js"></script>
 		<script>
 			$(function () {
-			  $("#slider").responsiveSlides({
+				$("#slider").responsiveSlides({
 				auto: true,
 				nav: true,
 				speed: 500,
 				namespace: "callbacks",
 				pager: false,
-			  });
+				});
 			});
 		</script>
 
@@ -143,11 +145,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						var cartCount = Context.Session.GetInt32("CartCount") ?? 0;
 						var cartTotal = Context.Session.GetString("CartTotal") ?? "0";
 					}
-					<a asp-area="" asp-controller="Cart" asp-action="Index">
-						<div class="total">
-							$@cartTotal (@cartCount)
-						</div>
+
+					<a asp-controller="Cart" asp-action="Index" class="cart-link">
 						<span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
+						<span>@cartCount sản phẩm</span>
 					</a>
 					<div class="clearfix"> </div>
 				</div>

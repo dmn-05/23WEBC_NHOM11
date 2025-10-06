@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/sR/CKWrDHw=",
+  "dgSpecHash": "KIuQsAKYwOs=",
   "success": true,
   "projectFilePath": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\Tuan06.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\Tuan06.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\Tuan06.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

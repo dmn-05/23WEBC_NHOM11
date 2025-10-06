@@ -7,6 +7,7 @@ wwwroot\admin\less\mixins.less
 wwwroot\admin\less\sb-admin-2.less
 wwwroot\admin\less\variables.less
 wwwroot\user\css\bootstrap.css
+wwwroot\user\css\custom.css
 wwwroot\user\css\flexslider.css
 wwwroot\user\css\form.css
 wwwroot\user\css\jquery-ui.css
@@ -23,7 +24,6 @@ wwwroot\user\images\bnr3.jpg
 wwwroot\user\images\close_1.png
 wwwroot\user\images\do.png
 wwwroot\user\images\icon2.png
-wwwroot\user\images\img-sprite.png
 wwwroot\user\images\img1.jpg
 wwwroot\user\images\img2.jpg
 wwwroot\user\images\img3.jpg
@@ -32,6 +32,7 @@ wwwroot\user\images\img5.jpg
 wwwroot\user\images\img6.jpg
 wwwroot\user\images\img7.jpg
 wwwroot\user\images\img8.jpg
+wwwroot\user\images\img-sprite.png
 wwwroot\user\images\ofr.jpg
 wwwroot\user\images\ofr2.jpeg
 wwwroot\user\images\ofr3.jpg
@@ -55,11 +56,11 @@ wwwroot\user\images\social.png
 wwwroot\user\images\sp.png
 wwwroot\user\js\bootstrap.js
 wwwroot\user\js\imagezoom.js
-wwwroot\user\js\jquery-ui.min.js
 wwwroot\user\js\jquery.flexisel.js
 wwwroot\user\js\jquery.flexslider.js
 wwwroot\user\js\jquery.jscrollpane.min.js
 wwwroot\user\js\jquery.min.js
+wwwroot\user\js\jquery-ui.min.js
 wwwroot\user\js\memenu.js
 wwwroot\user\js\responsiveslides.min.js
 wwwroot\user\js\simpleCart.min.js

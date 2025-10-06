@@ -1,14 +1,36 @@
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\appsettings.Development.json
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\appsettings.json
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\db.json
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.endpoints.json
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.exe
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.dll
-D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.pdb
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\appsettings.Development.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\appsettings.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.endpoints.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\Tuan06.exe
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\Tuan06.dll
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\bin\Debug\net8.0\Tuan06.pdb
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfoInputs.cache
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfo.cs
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CoreCompileInputs.cache
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cache
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cs
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\scopedcss\bundle\Tuan06.styles.css
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\scopedcss\projectbundle\Tuan06.bundle.scp.css
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.dll
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.pdb
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
+D:\ASPNetCore\Tuan06\Tuan06\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.GeneratedMSBuildEditorConfig.editorconfig
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfoInputs.cache
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfo.cs
@@ -16,20 +38,66 @@ D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CoreCompileInputs.ca
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.MvcApplicationPartsAssemblyInfo.cache
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cache
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cs
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.sourcelink.json
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\rjimswa.dswa.cache.json
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.dll
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.pdb
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\appsettings.Development.json
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\appsettings.json
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.endpoints.json
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.exe
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.dll
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\Tuan06.pdb
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\scopedcss\bundle\Tuan06.styles.css
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\scopedcss\projectbundle\Tuan06.bundle.scp.css
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.build.json
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.development.json
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssets.props
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.build.Tuan06.props
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tuan06.props
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tuan06.props
+D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.pack.json
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.dll
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
-D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.pdb
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
 D:\23WEBC_NHOM11\BT02\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
+D:\23WEBC_NHOM11\BT02\Tuan06\bin\Debug\net8.0\db.json
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\appsettings.json
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\db.json
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.endpoints.json
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\Tuan06.exe
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\Tuan06.dll
+D:\New folder (2)\BT02\Tuan06\bin\Debug\net8.0\Tuan06.pdb
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfoInputs.cache
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfo.cs
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CoreCompileInputs.cache
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cache
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cs
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.sourcelink.json
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\scopedcss\bundle\Tuan06.styles.css
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\scopedcss\projectbundle\Tuan06.bundle.scp.css
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.dll
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.pdb
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
+D:\New folder (2)\BT02\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll

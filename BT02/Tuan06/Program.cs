@@ -1,26 +1,14 @@
 using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Tuan06.Services;
-
 var builder = WebApplication.CreateBuilder(args);
-
-// Begin Khai
+// Begin Nhat
 builder.Services.AddSingleton<IProductService, ProductService>();
-// End Khai
-
+// End Nhat
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
-// ? Thêm DistributedMemoryCache (n?u không có s? báo l?i khi Session ch?y)
-builder.Services.AddDistributedMemoryCache();
-
 // begin phat
-builder.Services.AddSession(options =>
-{
-    options.IdleTimeout = TimeSpan.FromMinutes(30); // th?i gian s?ng c?a session
-    options.Cookie.HttpOnly = true; // tãng b?o m?t
-    options.Cookie.IsEssential = true; // session ho?t ð?ng k? c? khi user t?t consent cookie
-});
+builder.Services.AddSession();
 // end phat
 var app = builder.Build();
 
@@ -28,6 +16,7 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -35,17 +24,20 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-// begin phat
-app.UseSession(); // ph?i ð?t trý?c UseAuthorization và MapControllerRoute
+// bigin phat
+app.UseSession();
+
 // end phat
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "areas",
     pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
-
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+
 
 app.Run();
