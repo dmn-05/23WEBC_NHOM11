@@ -1,0 +1,144 @@
+﻿@model List<Tuan06.Models.CartItem>
+@{
+    // Lấy tổng tiền từ ViewBag, mặc định là 0m.
+    ViewData["Title"] = "Giỏ hàng";
+    var total = (decimal)(ViewBag.Total ?? 0m);
+}
+<div class="container py-4">
+    <h2 class="mb-4 text-center text-primary">🛒 Giỏ hàng của bạn</h2>
+
+    @if (Model == null || !Model.Any())
+    {
+        <div class="alert alert-info text-center" role="alert">
+            <h4 class="alert-heading">Giỏ hàng trống!</h4>
+            <p>Chưa có sản phẩm nào trong giỏ hàng của bạn. Hãy bắt đầu mua sắm ngay nhé!</p>
+            <hr>
+            <a href="/" class="btn btn-primary">Tiếp tục mua sắm</a>
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive shadow-sm">
+            <table class="table align-middle text-center table-hover border">
+                <thead class="table-dark">
+                    <tr>
+                        <th style="width: 35%" class="text-start">Sản phẩm</th>
+                        <th style="width: 15%">Giá</th>
+                        <th style="width: 15%">Số lượng</th>
+                        <th style="width: 15%">Thành tiền</th>
+                        <th style="width: 10%">Hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var x in Model)
+                    {
+                        <tr>
+                            <td class="text-start">
+                                <div class="d-flex align-items-center">
+                                    <img src="/@x.HinhAnh" alt="@x.TenSP" class="img-thumbnail me-3" style="width:80px; height:80px; object-fit:cover;">
+                                    <span>@x.TenSP</span>
+                                </div>
+                            </td>
+                            <td>
+                                @{
+                                    var price = x.DonGiaKhuyenMai > 0 ? x.DonGiaKhuyenMai : x.DonGia;
+                                }
+                                <strong class="text-danger">@price.ToString("N0") đ</strong>
+                                @if (x.DonGiaKhuyenMai > 0)
+                                {
+                                    <br />
+                        
+                                    <small class="text-muted text-decoration-line-through">@x.DonGia.ToString("N0") đ</small>
+                                }
+                            </td>
+                            <td>
+                                <form asp-action="Update" method="post" class="d-inline-flex flex-column align-items-center w-100">
+                                    <input type="hidden" name="id" value="@x.MaSP" />
+                                    <input type="text" readonly
+                                           class="form-control text-center bg-white border shadow-sm"
+                                           value="@x.Qty"
+                                           style="width: 100px;" />
+                                    <div class="d-flex mb-1" style="width: 100px;">
+                                        <button type="submit" name="qty" value="@(x.Qty - 1)"
+                                                class="btn btn-light flex-fill me-1 border"
+                                                @(x.Qty <= 1 ? "disabled" : "")
+                                                style="padding: 0.25rem 0.5rem;">
+                                            -
+                                        </button>
+                                        <button type="submit" name="qty" value="@(x.Qty + 1)"
+                                                class="btn btn-light flex-fill border"
+                                                style="padding: 0.25rem 0.5rem;">
+                                            +
+                                        </button>
+                                    </div>
+                                    
+                                </form>
+                            </td>
+                            <td><strong class="text-success">@x.SubTotal.ToString("N0") đ</strong></td>
+                            <td>
+                                <form asp-action="Remove" method="post" class="d-inline">
+                                    <input type="hidden" name="id" value="@x.MaSP" />
+                                    <button type="submit" class="btn btn-sm btn-outline-danger" title="Xóa sản phẩm">
+                                        <i class="bi bi-trash-fill"></i>Xóa
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot class="table-light">
+                    <tr>
+                        <td colspan="3" class="text-end fw-bold fs-5">Tổng cộng:</td>
+                        <td class="fs-5 text-success"><strong>@total.ToString("N0") đ</strong></td>
+                        <td></td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    }
+</div>
+
+<style>
+    /* CSS tùy chỉnh cho trang giỏ hàng */
+    .table th, .table td {
+        vertical-align: middle;
+        /* Đảm bảo căn giữa cho nội dung cột (trừ cột Sản phẩm) */
+        text-align: center;
+    }
+
+    /* Cột Sản phẩm phải căn lề trái */
+    .table .text-start {
+        text-align: left !important;
+    }
+
+    /* Đảm bảo input-group trong ô số lượng được căn giữa */
+    td form.d-inline-flex {
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    /* Cố định và làm nổi bật nút Thanh toán */
+    .fixed-checkout-button {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        z-index: 1030;
+    }
+
+        .fixed-checkout-button .btn-success {
+            /* Màu xanh lá cây (success) thường dùng cho hành động hoàn tất/thanh toán */
+            background-color: #28a745;
+            border-color: #28a745;
+            padding: 15px 30px;
+            font-size: 1.25rem;
+            border-radius: 50px;
+            transition: all 0.3s ease;
+        }
+
+            .fixed-checkout-button .btn-success:hover {
+                background-color: #1e7e34;
+                border-color: #1c7430;
+                transform: translateY(-2px);
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25) !important;
+            }
+</style>

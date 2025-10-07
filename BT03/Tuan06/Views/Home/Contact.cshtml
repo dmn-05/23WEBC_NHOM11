@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Liên hệ";
+}
+<div class="contact">
+	<div class="container">
+		<ol class="breadcrumb">
+			<li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+			<li class="active">Liên hệ</li>
+		</ol>
+		<!--start contact-->
+		<h3>Liên hệ với chúng tôi</h3>
+		<div class="section group">
+			<div class="col-md-6 span_1_of_3">
+				<div class="contact_info">
+					<h4>Địa chỉ</h4>
+					<div class="map">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.5139338597123!2d106.70124969999999!3d10.771894099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f40a3b49e59%3A0xa1bd14e483a602db!2sCao%20Thang%20Technical%20College!5e0!3m2!1sen!2s!4v1759759809398!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					</div>
+				</div>
+				<div class="company_address">
+					<h4>Trường Cao đẳng Kỹ thuật Cao Thắng :</h4>
+					<p>65 Huỳnh Thúc Kháng, phường Sài Gòn, Thành phố Hồ Chí Minh</p>
+					<p>Việt Nam</p>
+					<p>Điện thoại:028 38 212 868</p>
+					<p>Fax:028 38 215 951</p>
+					<p>Email: <a href="mailto:ktcaothang@caothang.edu.vn">ktcaothang@caothang.edu.vn</a></p>
+					<p>Theo dõi ngay: <a href="#">Facebook</a>, <a href="#">Twitter</a></p>
+				</div>
+			</div>
+			<div class="col-md-6 span_2_of_3">
+				<div class="contact-form">
+					<form>
+						<div>
+							<span><label>Họ và tên</label></span>
+							<span><input name="userName" type="text" class="textbox"></span>
+						</div>
+						<div>
+							<span><label>E-MAIL</label></span>
+							<span><input name="userEmail" type="text" class="textbox"></span>
+						</div>
+						<div>
+							<span><label>Số điện thoại</label></span>
+							<span><input name="userPhone" type="text" class="textbox"></span>
+						</div>
+						<div>
+							<span><label>Nội dung</label></span>
+							<span><textarea name="userMsg"> </textarea></span>
+						</div>
+						<div>
+							<span><input type="submit" class="mybutton" value="Gửi"></span>
+						</div>
+					</form>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

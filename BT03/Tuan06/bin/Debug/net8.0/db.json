@@ -1,0 +1,182 @@
+[
+  {
+    "MaSP": 1,
+    "TenSP": "Đèn treo tường cổ điển",
+    "DonGia": 350000,
+    "DonGiaKhuyenMai": 270000,
+    "HinhAnh": "user/images/p1.jpg",
+    "MoTa": "Đèn treo tường phong cách cổ điển, ánh sáng dịu nhẹ, thích hợp trang trí phòng khách hoặc hành lang.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 2,
+    "TenSP": "Đèn gắn tường hiện đại",
+    "DonGia": 420000,
+    "DonGiaKhuyenMai": 330000,
+    "HinhAnh": "user/images/p2.jpg",
+    "MoTa": "Đèn gắn tường thiết kế hiện đại, ánh sáng LED tiết kiệm điện, tạo không gian sang trọng.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 3,
+    "TenSP": "Đèn ngủ để bàn",
+    "DonGia": 280000,
+    "DonGiaKhuyenMai": 200000,
+    "HinhAnh": "user/images/p3.jpg",
+    "MoTa": "Đèn ngủ để bàn với chao vải cao cấp, ánh sáng ấm áp, phù hợp phòng ngủ.",
+    "LoaiSP": "Đèn bàn"//2
+  },
+  {
+    "MaSP": 4,
+    "TenSP": "Đèn bàn học chống cận",
+    "DonGia": 300000,
+    "DonGiaKhuyenMai": 220000,
+    "HinhAnh": "user/images/p4.jpg",
+    "MoTa": "Đèn bàn học LED ánh sáng trắng, bảo vệ mắt, cổ xoay linh hoạt.",
+    "LoaiSP": "Đèn bàn"
+  },
+  {
+    "MaSP": 5,
+    "TenSP": "Đèn trụ sân vườn",
+    "DonGia": 480000,
+    "DonGiaKhuyenMai": 390000,
+    "HinhAnh": "user/images/p5.jpg",
+    "MoTa": "Đèn trụ sân vườn năng lượng mặt trời, chịu nước, bền bỉ với thời tiết.",
+    "LoaiSP": "Đèn ngoài trời"//3
+  },
+  {
+    "MaSP": 6,
+    "TenSP": "Đèn pha LED chiếu sáng",
+    "DonGia": 500000,
+    "DonGiaKhuyenMai": 400000,
+    "HinhAnh": "user/images/p6.jpg",
+    "MoTa": "Đèn pha LED công suất cao, ánh sáng mạnh, thích hợp chiếu sáng sân vườn, nhà xưởng.",
+    "LoaiSP": "Đèn chiếu sáng"//4
+  },
+  {
+    "MaSP": 7,
+    "TenSP": "Đèn tường cổ điển nến",
+    "DonGia": 340000,
+    "DonGiaKhuyenMai": 250000,
+    "HinhAnh": "user/images/p7.jpg",
+    "MoTa": "Đèn tường hình nến giả cổ, tạo không gian sang trọng, ấm cúng.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 8,
+    "TenSP": "Đèn chùm đồng",
+    "DonGia": 450000,
+    "DonGiaKhuyenMai": 360000,
+    "HinhAnh": "user/images/p8.jpg",
+    "MoTa": "Đèn chùm đồng sang trọng, thích hợp cho phòng khách hoặc sảnh lớn.",
+    "LoaiSP": "Đèn chùm"//5
+  },
+  {
+    "MaSP": 9,
+    "TenSP": "Đèn bàn trang trí",
+    "DonGia": 250000,
+    "DonGiaKhuyenMai": 180000,
+    "HinhAnh": "user/images/p9.jpg",
+    "MoTa": "Đèn bàn nhỏ gọn, chao vải màu sắc trẻ trung, phù hợp làm đèn trang trí phòng ngủ.",
+    "LoaiSP": "Đèn bàn"
+  },
+  {
+    "MaSP": 10,
+    "TenSP": "Đèn treo tường nghệ thuật",
+    "DonGia": 370000,
+    "DonGiaKhuyenMai": 280000,
+    "HinhAnh": "user/images/p10.jpg",
+    "MoTa": "Đèn treo tường thiết kế nghệ thuật, ánh sáng lung linh tạo điểm nhấn.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 11,
+    "TenSP": "Đèn gỗ treo tường",
+    "DonGia": 320000,
+    "DonGiaKhuyenMai": 230000,
+    "HinhAnh": "user/images/p11.jpg",
+    "MoTa": "Đèn treo tường khung gỗ, ánh sáng vàng dịu nhẹ, phong cách vintage.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 12,
+    "TenSP": "Đèn tường đôi chao kính",
+    "DonGia": 400000,
+    "DonGiaKhuyenMai": 300000,
+    "HinhAnh": "user/images/p12.jpg",
+    "MoTa": "Đèn tường đôi với chao kính mờ, ánh sáng đều, thích hợp phòng khách và phòng ngủ.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 13,
+    "TenSP": "Đèn tường đôi chao đồng",
+    "DonGia": 420000,
+    "DonGiaKhuyenMai": 330000,
+    "HinhAnh": "user/images/img1.jpg",
+    "MoTa": "Đèn tường đôi với khung đồng cao cấp, ánh sáng vàng tạo không gian sang trọng.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 14,
+    "TenSP": "Đèn tường đôi chao vàng",
+    "DonGia": 380000,
+    "DonGiaKhuyenMai": 300000,
+    "HinhAnh": "user/images/img2.jpg",
+    "MoTa": "Đèn tường đôi với chao thủy tinh màu vàng, ánh sáng dịu nhẹ và ấm áp.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 15,
+    "TenSP": "Đèn gỗ treo tường đôi",
+    "DonGia": 360000,
+    "DonGiaKhuyenMai": 270000,
+    "HinhAnh": "user/images/img3.jpg",
+    "MoTa": "Đèn treo tường khung gỗ tự nhiên, thiết kế đôi, phong cách vintage độc đáo.",
+    "LoaiSP": "Đèn trang trí"
+  },
+  {
+    "MaSP": 16,
+    "TenSP": "Đèn pin sạc cầm tay",
+    "DonGia": 250000,
+    "DonGiaKhuyenMai": 180000,
+    "HinhAnh": "user/images/img4.jpg",
+    "MoTa": "Đèn pin sạc LED siêu sáng, dung lượng pin lớn, tiện lợi khi đi du lịch hoặc cúp điện.",
+    "LoaiSP": "Đèn chiếu sáng"
+  },
+  {
+    "MaSP": 17,
+    "TenSP": "Đèn bắt muỗi điện tử",
+    "DonGia": 320000,
+    "DonGiaKhuyenMai": 240000,
+    "HinhAnh": "user/images/img5.jpg",
+    "MoTa": "Đèn bắt muỗi điện tử, an toàn cho gia đình, tiết kiệm điện và hiệu quả cao.",
+    "LoaiSP": "Đèn điện tử"
+  },
+  {
+    "MaSP": 18,
+    "TenSP": "Bộ đèn LED âm trần",
+    "DonGia": 480000,
+    "DonGiaKhuyenMai": 390000,
+    "HinhAnh": "user/images/img6.jpg",
+    "MoTa": "Bộ 6 bóng đèn LED âm trần siêu sáng, tiết kiệm điện năng, ánh sáng trắng tự nhiên.",
+    "LoaiSP": "Đèn trần"
+  },
+  {
+    "MaSP": 19,
+    "TenSP": "Đèn bàn học LED xanh",
+    "DonGia": 280000,
+    "DonGiaKhuyenMai": 200000,
+    "HinhAnh": "user/images/img7.jpg",
+    "MoTa": "Đèn bàn học LED màu xanh, thiết kế hiện đại, ánh sáng bảo vệ mắt.",
+    "LoaiSP": "Đèn bàn"
+  },
+  {
+    "MaSP": 20,
+    "TenSP": "Đèn đọc sách gấp gọn",
+    "DonGia": 300000,
+    "DonGiaKhuyenMai": 220000,
+    "HinhAnh": "user/images/img8.jpg",
+    "MoTa": "Đèn đọc sách nhỏ gọn, cổ xoay linh hoạt, ánh sáng tập trung chống cận.",
+    "LoaiSP": "Đèn bàn"
+  }
+]
