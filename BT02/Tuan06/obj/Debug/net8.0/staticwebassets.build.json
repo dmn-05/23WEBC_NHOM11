@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ElHIVlt/bgbgC/sEzfScyA2Q1k5Q4njtOkiZoBbppIM=",
+  "Hash": "n3JaYcdo6uARzpnU9qvkH1Sj+hfH7W1trQUTghDrgW8=",
   "Source": "Tuan06",
   "BasePath": "_content/Tuan06",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Tuan06\\wwwroot",
       "Source": "Tuan06",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tuan06.styles.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tuan06.styles.css",
       "SourceId": "Tuan06",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "Tuan06#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "rIUzWBAD7wb+LhNglWTh95T9hsmlUT2+d9uzTI+fQT4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tuan06.styles.css"
+      "OriginalItemSpec": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tuan06.styles.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css",
       "SourceId": "Tuan06",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "Tuan06#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "rIUzWBAD7wb+LhNglWTh95T9hsmlUT2+d9uzTI+fQT4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css"
+      "OriginalItemSpec": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\sb-admin-2.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\sb-admin-2.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "admin/dist/css/sb-admin-2#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\dist\\css\\sb-admin-2.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\timeline.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\timeline.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "admin/dist/css/timeline#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\dist\\css\\timeline.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\js\\sb-admin-2.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\js\\sb-admin-2.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "admin/dist/js/sb-admin-2#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\dist\\js\\sb-admin-2.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\js\\flot-data.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\js\\flot-data.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "admin/js/flot-data#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\flot-data.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\js\\morris-data.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\js\\morris-data.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "admin/js/morris-data#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\morris-data.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\mixins.less",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\mixins.less",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "admin/less/mixins#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\less\\mixins.less"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\sb-admin-2.less",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\sb-admin-2.less",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "admin/less/sb-admin-2#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\less\\sb-admin-2.less"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\variables.less",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\variables.less",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "admin/less/variables#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\less\\variables.less"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\bootstrap.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\bootstrap.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\user\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\custom.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\custom.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/css/custom#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\user\\css\\custom.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\flexslider.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\flexslider.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/css/flexslider#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\user\\css\\flexslider.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\form.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\form.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/css/form#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\user\\css\\form.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\jquery-ui.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\jquery-ui.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/css/jquery-ui#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\user\\css\\jquery-ui.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\memenu.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\memenu.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/css/memenu#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\user\\css\\memenu.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\style.css",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\style.css",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\user\\css\\style.css"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Bold.ttf",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Bold.ttf",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/fonts/Dosis-Bold#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\user\\fonts\\Dosis-Bold.ttf"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Medium.ttf",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Medium.ttf",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/fonts/Dosis-Medium#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\user\\fonts\\Dosis-Medium.ttf"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Regular.ttf",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Regular.ttf",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/fonts/Dosis-Regular#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\user\\fonts\\Dosis-Regular.ttf"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\user\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\b-arrow.png",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\b-arrow.png",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/b-arrow#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\b-arrow.png"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/bnr#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\bnr.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr2.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr2.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/bnr2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\bnr2.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr3.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr3.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/bnr3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\bnr3.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\close_1.png",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\close_1.png",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/close_1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\close_1.png"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\do.png",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\do.png",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/do#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\do.png"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\icon2.png",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\icon2.png",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/icon2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\icon2.png"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img1.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img1.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img1.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img2.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img2.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img2.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img3.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img3.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img3.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img4.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img4.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img4.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img5.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img5.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img5.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img6.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img6.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img6.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img7.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img7.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img7.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img8.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img8.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img8.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img-sprite.png",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img-sprite.png",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/img-sprite#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\img-sprite.png"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/ofr#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\ofr.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr2.jpeg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr2.jpeg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/ofr2#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\ofr2.jpeg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr3.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr3.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/ofr3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\ofr3.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p1.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p1.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p1.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p10.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p10.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p10#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p10.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p11.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p11.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p11#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p11.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p12.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p12.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p12#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p12.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p2.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p2.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p2.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p3.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p3.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p3.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p4 copy.JPG",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p4 copy.JPG",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p4 copy#[.{fingerprint}]?.JPG",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p4 copy.JPG"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p4.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p4.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p4.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p5.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p5.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p5.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p6.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p6.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p6.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p7.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p7.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p7.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p8.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p8.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p8.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p9.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p9.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/p9#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\p9.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/si#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\si.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si2.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si2.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/si2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\si2.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si3.jpg",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si3.jpg",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/si3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\si3.jpg"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\social.png",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\social.png",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/social#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\social.png"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\sp.png",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\sp.png",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/images/sp#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\user\\images\\sp.png"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\bootstrap.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\bootstrap.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\imagezoom.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\imagezoom.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/imagezoom#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\imagezoom.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexisel.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexisel.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/jquery.flexisel#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\jquery.flexisel.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexslider.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexslider.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/jquery.flexslider#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\jquery.flexslider.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.jscrollpane.min.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.jscrollpane.min.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/jquery.jscrollpane.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\jquery.jscrollpane.min.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.min.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.min.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\jquery.min.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery-ui.min.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery-ui.min.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/jquery-ui.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\jquery-ui.min.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\memenu.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\memenu.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/memenu#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\memenu.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\responsiveslides.min.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\responsiveslides.min.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/responsiveslides.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\user\\js\\responsiveslides.min.js"
     },
     {
-      "Identity": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\simpleCart.min.js",
+      "Identity": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\simpleCart.min.js",
       "SourceId": "Tuan06",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\",
+      "ContentRoot": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\",
       "BasePath": "_content/Tuan06",
       "RelativePath": "user/js/simpleCart.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1448,7 +1448,7 @@
   "Endpoints": [
     {
       "Route": "admin/dist/css/sb-admin-2.54565ufmbp.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\sb-admin-2.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\sb-admin-2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1493,7 +1493,7 @@
     },
     {
       "Route": "admin/dist/css/sb-admin-2.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\sb-admin-2.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\sb-admin-2.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1530,7 +1530,7 @@
     },
     {
       "Route": "admin/dist/css/timeline.9hj42ybnna.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\timeline.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\timeline.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1575,7 +1575,7 @@
     },
     {
       "Route": "admin/dist/css/timeline.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\timeline.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\css\\timeline.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1612,7 +1612,7 @@
     },
     {
       "Route": "admin/dist/js/sb-admin-2.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\js\\sb-admin-2.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\js\\sb-admin-2.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1649,7 +1649,7 @@
     },
     {
       "Route": "admin/dist/js/sb-admin-2.thsaax7na2.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\dist\\js\\sb-admin-2.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\dist\\js\\sb-admin-2.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1694,7 +1694,7 @@
     },
     {
       "Route": "admin/js/flot-data.j9im2w8ji5.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\js\\flot-data.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\js\\flot-data.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1739,7 +1739,7 @@
     },
     {
       "Route": "admin/js/flot-data.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\js\\flot-data.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\js\\flot-data.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1776,7 +1776,7 @@
     },
     {
       "Route": "admin/js/morris-data.3mc030ljul.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\js\\morris-data.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\js\\morris-data.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1821,7 +1821,7 @@
     },
     {
       "Route": "admin/js/morris-data.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\js\\morris-data.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\js\\morris-data.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1858,7 +1858,7 @@
     },
     {
       "Route": "admin/less/mixins.less",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\mixins.less",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\mixins.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1895,7 +1895,7 @@
     },
     {
       "Route": "admin/less/mixins.p9pthvk9ib.less",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\mixins.less",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\mixins.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1940,7 +1940,7 @@
     },
     {
       "Route": "admin/less/sb-admin-2.hzvhufxek3.less",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\sb-admin-2.less",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\sb-admin-2.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1985,7 +1985,7 @@
     },
     {
       "Route": "admin/less/sb-admin-2.less",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\sb-admin-2.less",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\sb-admin-2.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2022,7 +2022,7 @@
     },
     {
       "Route": "admin/less/variables.0fg0viacdo.less",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\variables.less",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\variables.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2067,7 +2067,7 @@
     },
     {
       "Route": "admin/less/variables.less",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\admin\\less\\variables.less",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\admin\\less\\variables.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2104,7 +2104,7 @@
     },
     {
       "Route": "Tuan06.bundle.scp.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2125,7 +2125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 07:06:23 GMT"
+          "Value": "Mon, 06 Oct 2025 19:51:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2141,7 +2141,7 @@
     },
     {
       "Route": "Tuan06.koewkp91l4.bundle.scp.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tuan06.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2162,7 +2162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 07:06:23 GMT"
+          "Value": "Mon, 06 Oct 2025 19:51:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2186,7 +2186,7 @@
     },
     {
       "Route": "Tuan06.koewkp91l4.styles.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tuan06.styles.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tuan06.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2207,7 +2207,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 07:06:23 GMT"
+          "Value": "Mon, 06 Oct 2025 19:51:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2231,7 +2231,7 @@
     },
     {
       "Route": "Tuan06.styles.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tuan06.styles.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tuan06.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2252,7 +2252,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 07:06:23 GMT"
+          "Value": "Mon, 06 Oct 2025 19:51:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2268,7 +2268,7 @@
     },
     {
       "Route": "user/css/bootstrap.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\bootstrap.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2305,7 +2305,7 @@
     },
     {
       "Route": "user/css/bootstrap.g38m3e87o8.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\bootstrap.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2350,7 +2350,7 @@
     },
     {
       "Route": "user/css/custom.27hs5lrkge.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\custom.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\custom.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2371,7 +2371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Oct 2025 17:52:26 GMT"
+          "Value": "Mon, 06 Oct 2025 19:51:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2395,7 +2395,7 @@
     },
     {
       "Route": "user/css/custom.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\custom.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\custom.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2416,7 +2416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Oct 2025 17:52:26 GMT"
+          "Value": "Mon, 06 Oct 2025 19:51:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2432,7 +2432,7 @@
     },
     {
       "Route": "user/css/flexslider.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\flexslider.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\flexslider.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2469,7 +2469,7 @@
     },
     {
       "Route": "user/css/flexslider.x9z8m17k8e.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\flexslider.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\flexslider.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2514,7 +2514,7 @@
     },
     {
       "Route": "user/css/form.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\form.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\form.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2551,7 +2551,7 @@
     },
     {
       "Route": "user/css/form.dsqhpfg4oq.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\form.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\form.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2596,7 +2596,7 @@
     },
     {
       "Route": "user/css/jquery-ui.85e9hw3c15.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\jquery-ui.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\jquery-ui.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2641,7 +2641,7 @@
     },
     {
       "Route": "user/css/jquery-ui.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\jquery-ui.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\jquery-ui.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2678,7 +2678,7 @@
     },
     {
       "Route": "user/css/memenu.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\memenu.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\memenu.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2715,7 +2715,7 @@
     },
     {
       "Route": "user/css/memenu.fevzckm7bk.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\memenu.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\memenu.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2760,7 +2760,7 @@
     },
     {
       "Route": "user/css/style.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\style.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2781,7 +2781,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 07:06:24 GMT"
+          "Value": "Mon, 06 Oct 2025 19:51:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2797,7 +2797,7 @@
     },
     {
       "Route": "user/css/style.fs5c84mqat.css",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\css\\style.css",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2818,7 +2818,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 01 Oct 2025 07:06:24 GMT"
+          "Value": "Mon, 06 Oct 2025 19:51:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2842,7 +2842,7 @@
     },
     {
       "Route": "user/fonts/Dosis-Bold.rk7sldrej7.ttf",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Bold.ttf",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Bold.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2887,7 +2887,7 @@
     },
     {
       "Route": "user/fonts/Dosis-Bold.ttf",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Bold.ttf",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Bold.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2924,7 +2924,7 @@
     },
     {
       "Route": "user/fonts/Dosis-Medium.b04gtba0sn.ttf",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Medium.ttf",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Medium.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2969,7 +2969,7 @@
     },
     {
       "Route": "user/fonts/Dosis-Medium.ttf",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Medium.ttf",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Medium.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3006,7 +3006,7 @@
     },
     {
       "Route": "user/fonts/Dosis-Regular.ttf",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Regular.ttf",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Regular.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3043,7 +3043,7 @@
     },
     {
       "Route": "user/fonts/Dosis-Regular.wevs572ti9.ttf",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Regular.ttf",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\Dosis-Regular.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3088,7 +3088,7 @@
     },
     {
       "Route": "user/fonts/glyphicons-halflings-regular.qqew9mh6jt.woff",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\glyphicons-halflings-regular.woff",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\glyphicons-halflings-regular.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3133,7 +3133,7 @@
     },
     {
       "Route": "user/fonts/glyphicons-halflings-regular.woff",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\fonts\\glyphicons-halflings-regular.woff",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\fonts\\glyphicons-halflings-regular.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3170,7 +3170,7 @@
     },
     {
       "Route": "user/images/b-arrow.pnbqgfdh1h.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\b-arrow.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\b-arrow.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3215,7 +3215,7 @@
     },
     {
       "Route": "user/images/b-arrow.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\b-arrow.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\b-arrow.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3252,7 +3252,7 @@
     },
     {
       "Route": "user/images/bnr.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3289,7 +3289,7 @@
     },
     {
       "Route": "user/images/bnr.ox6rr0t17u.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3334,7 +3334,7 @@
     },
     {
       "Route": "user/images/bnr2.bxscdbfi0z.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr2.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3379,7 +3379,7 @@
     },
     {
       "Route": "user/images/bnr2.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr2.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3416,7 +3416,7 @@
     },
     {
       "Route": "user/images/bnr3.42napb0xwd.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3461,7 +3461,7 @@
     },
     {
       "Route": "user/images/bnr3.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\bnr3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3498,7 +3498,7 @@
     },
     {
       "Route": "user/images/close_1.grs7wtszek.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\close_1.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\close_1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3543,7 +3543,7 @@
     },
     {
       "Route": "user/images/close_1.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\close_1.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\close_1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3580,7 +3580,7 @@
     },
     {
       "Route": "user/images/do.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\do.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\do.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3617,7 +3617,7 @@
     },
     {
       "Route": "user/images/do.x2eog4imay.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\do.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\do.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3662,7 +3662,7 @@
     },
     {
       "Route": "user/images/icon2.nm6h5g0xbu.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\icon2.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\icon2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3707,7 +3707,7 @@
     },
     {
       "Route": "user/images/icon2.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\icon2.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\icon2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3744,7 +3744,7 @@
     },
     {
       "Route": "user/images/img1.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img1.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3781,7 +3781,7 @@
     },
     {
       "Route": "user/images/img1.v2qocz8yte.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img1.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3826,7 +3826,7 @@
     },
     {
       "Route": "user/images/img2.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img2.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3863,7 +3863,7 @@
     },
     {
       "Route": "user/images/img2.ocrxmmm591.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img2.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3908,7 +3908,7 @@
     },
     {
       "Route": "user/images/img3.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3945,7 +3945,7 @@
     },
     {
       "Route": "user/images/img3.korbtbqdao.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3990,7 +3990,7 @@
     },
     {
       "Route": "user/images/img4.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img4.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4027,7 +4027,7 @@
     },
     {
       "Route": "user/images/img4.wqhx4jhejy.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img4.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4072,7 +4072,7 @@
     },
     {
       "Route": "user/images/img5.607pa2zhn7.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img5.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4117,7 +4117,7 @@
     },
     {
       "Route": "user/images/img5.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img5.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4154,7 +4154,7 @@
     },
     {
       "Route": "user/images/img6.j97kf844bu.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img6.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4199,7 +4199,7 @@
     },
     {
       "Route": "user/images/img6.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img6.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4236,7 +4236,7 @@
     },
     {
       "Route": "user/images/img7.7szu81zl42.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img7.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4281,7 +4281,7 @@
     },
     {
       "Route": "user/images/img7.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img7.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4318,7 +4318,7 @@
     },
     {
       "Route": "user/images/img8.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img8.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4355,7 +4355,7 @@
     },
     {
       "Route": "user/images/img8.sjpm0afke0.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img8.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4400,7 +4400,7 @@
     },
     {
       "Route": "user/images/img-sprite.0u5j5g9it7.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img-sprite.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img-sprite.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4445,7 +4445,7 @@
     },
     {
       "Route": "user/images/img-sprite.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\img-sprite.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\img-sprite.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4482,7 +4482,7 @@
     },
     {
       "Route": "user/images/ofr.0exe0pafxh.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4527,7 +4527,7 @@
     },
     {
       "Route": "user/images/ofr.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4564,7 +4564,7 @@
     },
     {
       "Route": "user/images/ofr2.5w7tca0sp7.jpeg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr2.jpeg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4609,7 +4609,7 @@
     },
     {
       "Route": "user/images/ofr2.jpeg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr2.jpeg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4646,7 +4646,7 @@
     },
     {
       "Route": "user/images/ofr3.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4683,7 +4683,7 @@
     },
     {
       "Route": "user/images/ofr3.x7i3ajni3j.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\ofr3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4728,7 +4728,7 @@
     },
     {
       "Route": "user/images/p1.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p1.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4765,7 +4765,7 @@
     },
     {
       "Route": "user/images/p1.w6bwlfq4t2.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p1.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4810,7 +4810,7 @@
     },
     {
       "Route": "user/images/p10.598jdt4r7d.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p10.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4855,7 +4855,7 @@
     },
     {
       "Route": "user/images/p10.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p10.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4892,7 +4892,7 @@
     },
     {
       "Route": "user/images/p11.e5zn6xtr9x.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p11.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4937,7 +4937,7 @@
     },
     {
       "Route": "user/images/p11.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p11.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4974,7 +4974,7 @@
     },
     {
       "Route": "user/images/p12.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p12.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5011,7 +5011,7 @@
     },
     {
       "Route": "user/images/p12.oiqszjplx3.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p12.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5056,7 +5056,7 @@
     },
     {
       "Route": "user/images/p2.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p2.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5093,7 +5093,7 @@
     },
     {
       "Route": "user/images/p2.y2pvxp5agt.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p2.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5138,7 +5138,7 @@
     },
     {
       "Route": "user/images/p3.fgczlsraes.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5183,7 +5183,7 @@
     },
     {
       "Route": "user/images/p3.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5220,7 +5220,7 @@
     },
     {
       "Route": "user/images/p4 copy.JPG",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p4 copy.JPG",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p4 copy.JPG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5257,7 +5257,7 @@
     },
     {
       "Route": "user/images/p4 copy.trfewb2vvw.JPG",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p4 copy.JPG",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p4 copy.JPG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5302,7 +5302,7 @@
     },
     {
       "Route": "user/images/p4.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p4.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5339,7 +5339,7 @@
     },
     {
       "Route": "user/images/p4.uapd7kls3p.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p4.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5384,7 +5384,7 @@
     },
     {
       "Route": "user/images/p5.2ss9qclv57.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p5.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5429,7 +5429,7 @@
     },
     {
       "Route": "user/images/p5.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p5.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5466,7 +5466,7 @@
     },
     {
       "Route": "user/images/p6.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p6.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5503,7 +5503,7 @@
     },
     {
       "Route": "user/images/p6.v3q4edtqoy.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p6.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5548,7 +5548,7 @@
     },
     {
       "Route": "user/images/p7.9q6xkfik78.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p7.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5593,7 +5593,7 @@
     },
     {
       "Route": "user/images/p7.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p7.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5630,7 +5630,7 @@
     },
     {
       "Route": "user/images/p8.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p8.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5667,7 +5667,7 @@
     },
     {
       "Route": "user/images/p8.qmlz446izs.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p8.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5712,7 +5712,7 @@
     },
     {
       "Route": "user/images/p9.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p9.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5749,7 +5749,7 @@
     },
     {
       "Route": "user/images/p9.ty99ngwthx.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\p9.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\p9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5794,7 +5794,7 @@
     },
     {
       "Route": "user/images/si.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5831,7 +5831,7 @@
     },
     {
       "Route": "user/images/si.tb3erd1ktu.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5876,7 +5876,7 @@
     },
     {
       "Route": "user/images/si2.41e1eb2grb.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si2.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5921,7 +5921,7 @@
     },
     {
       "Route": "user/images/si2.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si2.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5958,7 +5958,7 @@
     },
     {
       "Route": "user/images/si3.f4poq83rgz.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6003,7 +6003,7 @@
     },
     {
       "Route": "user/images/si3.jpg",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\si3.jpg",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\si3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6040,7 +6040,7 @@
     },
     {
       "Route": "user/images/social.2ip11w179e.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\social.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\social.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6085,7 +6085,7 @@
     },
     {
       "Route": "user/images/social.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\social.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\social.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6122,7 +6122,7 @@
     },
     {
       "Route": "user/images/sp.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\sp.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\sp.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6159,7 +6159,7 @@
     },
     {
       "Route": "user/images/sp.re6neo1tqp.png",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\images\\sp.png",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\images\\sp.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6204,7 +6204,7 @@
     },
     {
       "Route": "user/js/bootstrap.18a8jz9wrb.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\bootstrap.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6249,7 +6249,7 @@
     },
     {
       "Route": "user/js/bootstrap.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\bootstrap.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6286,7 +6286,7 @@
     },
     {
       "Route": "user/js/imagezoom.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\imagezoom.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\imagezoom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6323,7 +6323,7 @@
     },
     {
       "Route": "user/js/imagezoom.lld9e1ng5q.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\imagezoom.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\imagezoom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6368,7 +6368,7 @@
     },
     {
       "Route": "user/js/jquery.flexisel.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexisel.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexisel.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6405,7 +6405,7 @@
     },
     {
       "Route": "user/js/jquery.flexisel.rw8712ueag.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexisel.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexisel.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6450,7 +6450,7 @@
     },
     {
       "Route": "user/js/jquery.flexslider.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexslider.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexslider.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6487,7 +6487,7 @@
     },
     {
       "Route": "user/js/jquery.flexslider.sre7dble5o.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexslider.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.flexslider.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6532,7 +6532,7 @@
     },
     {
       "Route": "user/js/jquery.jscrollpane.min.c6nsuur4x3.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.jscrollpane.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.jscrollpane.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6577,7 +6577,7 @@
     },
     {
       "Route": "user/js/jquery.jscrollpane.min.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.jscrollpane.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.jscrollpane.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6614,7 +6614,7 @@
     },
     {
       "Route": "user/js/jquery.min.dn27zhy7y5.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6659,7 +6659,7 @@
     },
     {
       "Route": "user/js/jquery.min.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6696,7 +6696,7 @@
     },
     {
       "Route": "user/js/jquery-ui.min.dam03jnzr0.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery-ui.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery-ui.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6741,7 +6741,7 @@
     },
     {
       "Route": "user/js/jquery-ui.min.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery-ui.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\jquery-ui.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6778,7 +6778,7 @@
     },
     {
       "Route": "user/js/memenu.9dh84iiy1n.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\memenu.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\memenu.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6823,7 +6823,7 @@
     },
     {
       "Route": "user/js/memenu.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\memenu.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\memenu.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6860,7 +6860,7 @@
     },
     {
       "Route": "user/js/responsiveslides.min.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\responsiveslides.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\responsiveslides.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6897,7 +6897,7 @@
     },
     {
       "Route": "user/js/responsiveslides.min.xd6phelicg.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\responsiveslides.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\responsiveslides.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6942,7 +6942,7 @@
     },
     {
       "Route": "user/js/simpleCart.min.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\simpleCart.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\simpleCart.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6979,7 +6979,7 @@
     },
     {
       "Route": "user/js/simpleCart.min.o8lnyr64lw.js",
-      "AssetFile": "D:\\23WEBC_NHOM11\\BT02\\Tuan06\\wwwroot\\user\\js\\simpleCart.min.js",
+      "AssetFile": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT02\\Tuan06\\wwwroot\\user\\js\\simpleCart.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
