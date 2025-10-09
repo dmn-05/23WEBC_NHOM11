@@ -1,0 +1,70 @@
+﻿<header>
+	<script src="~/user/js/responsiveslides.min.js"></script>
+	<script>
+		$(function () {
+		  $("#slider").responsiveSlides({
+			auto: true,
+			nav: true,
+			speed: 500,
+			namespace: "callbacks",
+			pager: false,
+		  });
+		});
+	</script>
+
+	<div class="header-top">
+		<div class="header-bottom">
+			<div class="logo">
+				<h1><a asp-area="" asp-controller="Home" asp-action="Index">Đèn T&A</a></h1>
+			</div>
+			<!---->
+			<div class="top-nav">
+				<ul class="memenu skyblue">
+					<li class="grid"><a asp-area="" asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+					<li class="grid"><a asp-area="" asp-controller="Product" asp-action="Index">Sản phẩm</a></li>
+					<li class="grid"><a asp-area="" asp-controller="Home" asp-action="Contact">Liên hệ</a></li>
+				</ul>
+			</div>
+			<div class="search-container">
+				<form class="search-bar" asp-controller="Product" asp-action="Search" method="get">
+					<i class="bi bi-search"></i>
+					<input type="text" name="keyword" placeholder="Search" />
+				</form>
+			</div>
+			<!---->
+			<div class="login">
+				@if (Context.Session.GetString("UserName") != null)
+				{
+					<div class="user-info">
+						Xin chào, @Context.Session.GetString("UserName")
+						<a asp-controller="Account" asp-action="Logout">Đăng xuất</a>
+					</div>
+				}
+				else
+				{
+					<a asp-area="" asp-controller="Account" asp-action="Login">Đăng nhập</a>
+					<a asp-area="" asp-controller="Account" asp-action="Register">Đăng ký</a>
+				}
+			</div>
+			<div class="cart-box">
+				@{
+					var cartCount = Context.Session.GetInt32("CartCount") ?? 0;
+					var cartTotal = Context.Session.GetString("CartTotal") ?? "0";
+				}
+				<a asp-area="" asp-controller="Cart" asp-action="Index">
+					<div class="total">
+						@cartTotal (@cartCount)đ
+					</div>
+					<span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
+				</a>
+				<div class="clearfix"> </div>
+			</div>
+			<!-------->
+			<div class="clearfix"> </div>
+			<!---->
+		</div>
+		<div class="clearfix"> </div>
+	</div>
+	<!---->
+
+</header>

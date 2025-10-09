@@ -1,4 +1,4 @@
-﻿@model List<Tuan06.Models.Order>
+﻿@* @model List<Tuan06.Models.Cart>
 @{
     // Lấy tổng tiền từ ViewBag, mặc định là 0m.
     ViewData["Title"] = "Giỏ hàng";
@@ -35,25 +35,25 @@
                         <tr>
                             <td class="text-start">
                                 <div class="d-flex align-items-center">
-                                    <img src="/@x.HinhAnh" alt="@x.TenSP" class="img-thumbnail me-3" style="width:80px; height:80px; object-fit:cover;">
-                                    <span>@x.TenSP</span>
+                                    <img src="/@x.Product.ProductImage" alt="@x.Product.ProductName" class="img-thumbnail me-3" style="width:80px; height:80px; object-fit:cover;">
+                                    <span>@x.Product.ProductName</span>
                                 </div>
                             </td>
                             <td>
                                 @{
-                                    var price = x.DonGiaKhuyenMai > 0 ? x.DonGiaKhuyenMai : x.DonGia;
+                                    var price = x.Product.Price > 0 ? x.Product.DiscountPrice : x.Product.Price;
                                 }
                                 <strong class="text-danger">@price.ToString("N0") đ</strong>
-                                @if (x.DonGiaKhuyenMai > 0)
+                                @if (x.Product.DiscountPrice > 0)
                                 {
                                     <br />
                         
-                                    <small class="text-muted text-decoration-line-through">@x.DonGia.ToString("N0") đ</small>
+                                    <small class="text-muted text-decoration-line-through">@x.Product.Price.ToString("N0") đ</small>
                                 }
                             </td>
                             <td>
                                 <form asp-action="Update" method="post" class="d-inline-flex flex-column align-items-center w-100">
-                                    <input type="hidden" name="id" value="@x.MaSP" />
+                                    <input type="hidden" name="id" value="@x.ProductID" />
                                     <input type="text" readonly
                                            class="form-control text-center bg-white border shadow-sm"
                                            value="@x.Qty"
@@ -141,4 +141,4 @@
                 transform: translateY(-2px);
                 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25) !important;
             }
-</style>
+</style> *@

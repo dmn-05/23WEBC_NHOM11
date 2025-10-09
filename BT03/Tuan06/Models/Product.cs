@@ -9,6 +9,7 @@ namespace Tuan06.Models {
     public string ProductImage { get; set; }
     public string ProductDescription { get; set; }
     public int CategoryID { get; set; }
-  }
+    public string CategoryName { get; set; }
+    }
 }
 

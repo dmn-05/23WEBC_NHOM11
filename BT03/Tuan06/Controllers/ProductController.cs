@@ -30,5 +30,9 @@ namespace Tuan06.Controllers
 
             return View(product);
         }
+        public IActionResult Search()
+        {
+            return View();
+        }
     }
 }

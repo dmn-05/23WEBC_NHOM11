@@ -1,3 +1,4 @@
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Tuan06.Data;
@@ -8,10 +9,11 @@ var builder = WebApplication.CreateBuilder(args);
 //builder.Services.AddSingleton<IProductService, ProductService>();
 // End Khai
 builder.Services.AddTransient<Tuan06.Data.ProductDAL>();
-
-// Add services to the container.
+builder.Services.AddTransient<Tuan06.Data.CategoryDAL>();
+builder.Services.AddScoped<Tuan06.Data.UserDAL>();
+builder.Services.AddSession();
 builder.Services.AddControllersWithViews();
-
+ 
 // ? Thêm DistributedMemoryCache (n?u không có s? báo l?i khi Session ch?y)
 builder.Services.AddDistributedMemoryCache();
 

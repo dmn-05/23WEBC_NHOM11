@@ -1,45 +1,89 @@
-w /*--A Design by W3layouts 
+﻿w /*--A Design by W3layouts 
 Author: W3layout
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
-.product-card {
-	margin-bottom: 24px;
-	padding: 8px;
-	margin-bottom: 1.5rem;
+/* ================= SEARCH BAR ================= */
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 15px 50px;
+	background-color: #fff;
 }
 
-.product-card .card {
-	transition: transform 0.2s ease, box-shadow 0.2s ease;
+/* --- Ô tìm kiếm --- */
+.search-container {
+	flex: 1;
+	display: flex;
+	justify-content: center;
 }
 
-	.product-card .card:hover {
-		transform: translateY(-5px);
-		box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
-	}
-
-.breadcrumb {
-	background: none;
-	padding-left: 0;
-	margin-bottom: 1.5rem;
-}
-
-.product-model h2 {
-	font-weight: 600;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-}
-
-.card {
+.search-bar {
+	margin-top: auto;
+	position: relative;
+	background: #f5f5f5;
+	border-radius: 30px;
+	padding: 6px 20px 6px 40px;
+	width: 350px;
+	border: solid #ddd;
 	transition: all 0.3s ease;
 }
 
-	.card:hover {
-		transform: translateY(-5px);
-		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	.search-bar input {
+		border: none;
+		outline: none;
+		width: 100%;
+		background: transparent;
+		font-size: 15px;
+		color: #333;
 	}
-/*-----------------*/
+
+	.search-bar i {
+		position: absolute;
+		left: 14px;
+		top: 50%;
+		transform: translateY(-50%);
+		color: #888;
+		font-size: 16px;
+	}
+
+	.search-bar:hover {
+		box-shadow: 0 0 6px rgba(0,0,0,0.1);
+	}
+
+/* --- Cart Box --- */
+cart-box {
+	display: flex;
+	gap: 8px;
+	font-size: 15px;
+	margin-top: 10px;
+	color: #333;
+}
+
+.cart-box a {
+	float: right;
+	display: flex;
+	margin-bottom: auto;
+	gap: 6px;
+	text-decoration: none;
+	color: #333;
+	transition: color 0.3s ease;
+}
+
+	.cart-box a:hover {
+		color: #007bff;
+	}
+
+.cart-box .total {
+	font-weight: 500;
+}
+
+.cart-box i {
+	font-size: 22px;
+}
+
 body{
 	background:#fff;
 	font-family: 'Lato', sans-serif;
@@ -1646,251 +1690,252 @@ li.last_price span {
   display: inherit;
 }
 /*--login--*/
-.login_sec{
-padding: 0em 0 3em 0;
+/* ===============================
+   LOGIN SECTION
+=============================== */
+.login_sec {
+	display: flex;
+	justify-content: center; /* căn giữa ngang */
+	align-items: center; /* căn giữa dọc */
+	min-height: 100vh; /* chiếm toàn bộ màn hình */
+	background-color: #f8f8f8;
+	padding: 0;
+	margin: 0;
 }
-.log{
-margin:1em 0 0em 0;
-padding:0;
+
+.log {
+	background: #fff;
+	padding: 2.5em 3em;
+	border-radius: 12px;
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+	max-width: 420px;
+	width: 100%;
+	text-align: center;
 }
-.login_sec h2{
-  font-size: 2.3em;
-  font-family: 'Dosis-Bold';
-  color: #333;
-}
-.login-right h3{
-	text-transform: uppercase;
-  font-size: 1.4em;
-  font-family: 'Aladin', cursive;
-  letter-spacing: 2px;
-  color: #333;
-  margin-bottom:0.5em;
-}
-.log p{
-color: #A7A7A7;
-line-height:1.8em;
-font-size:1em;
-}
-.reg-right{
-padding:2em 0 0 3em;
-}
-.login-right input[type="text"] {
-border: 1px solid #EEE;
-outline-color: #3498db;
-width: 96%;
-font-size: 0.8125em;
-padding: 0.5em;
-}
-.log p span{
-display:inline-block;
-cursor:pointer;
-color:#1a1818;
-text-decoration:underline;
-}
-.log h5{
-color: #5d5959;
-font-size:1.3em;
-padding-bottom:10px; 
-}
-.log form {
-margin-top:2em;
-}
-.log form input[type="text"],.log form input[type="password"] {
-width: 90%;
-padding: 8px;
-font-size: 1em;
-font-weight: 400;
-border: 1px solid #D6D6D6;
-outline: none;
-color: #5d5959;
-margin-bottom:2em;
-}
-.log form input[type="submit"]{
-display:inline-block;
-  background: #00a0dc;
-  padding: 0.6em 2em;
-  font-size:1em;
-  color: #fff;
-  text-decoration: none;
-  font-weight: 500;
-  border:none;
-  outline:none;
-  margin-right:2em;
-  margin-bottom:1em;
-  transition: 0.5s all;
--webkit-transition: 0.5s all;
--moz-transition: 0.5s all;
--o-transition: 0.5s all;
-}
-.log form input[type="submit"]:hover,a.acount-btn:hover{
-	background:#ed645c;
-	color:#fff;
-	text-decoration:none;
-}
-.log a{
-text-decoration:underline;
-font-size:0.85em;
-font-weight:400;
-color:#7b7a7a;
-}
-a.acount-btn {
-  display:inline-block;
-  background: #00a0dc;
-  padding: 0.6em 2em;
-  font-size:1em;
-  color: #fff;
-  text-decoration: none;
-  font-weight: 500;
-  border:none;
-  outline:none;
-  margin-bottom:1em;
-  transition: 0.5s all;
--webkit-transition: 0.5s all;
--moz-transition: 0.5s all;
--o-transition: 0.5s all;
-}
-.login-right p {
-color: #999;
-display: block;
-font-size: 0.9em;
-margin: 0 0 2em 0;
-line-height: 1.7em;
-}
-.registration{
-	padding: 0em 0% 3em 0;
-}
-.registration h2{
-	font-size:1.8em;
-	color: #333;
-	text-transform:capitalize;
-	margin-bottom: 4%;
+
+.login_sec h2 {
+	font-size: 2.3em;
 	font-family: 'Dosis-Bold';
-	font-weight:300;
+	color: #333;
+	margin-bottom: 1em;
 }
-.reg_fb {
-	margin:3% 0;
-	display: block;
-	background: #3B5998;
-	transition: all 0.5s ease-out;
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-.reg_fb img {
-	background:#354F88;
-	padding: 10px;
-	float: left;
-}
-.reg_fb i {
-	color: #ffffff;
-	padding: 12px 16px;
-	display: inline-block;
+
+.log h5 {
+	color: #5d5959;
 	font-size: 1.3em;
-	text-transform: capitalize;
-	font-style: normal;
+	padding-bottom: 10px;
 }
-.reg_fb:hover {
-	background:#354F88;
+
+.log p {
+	color: #a7a7a7;
+	line-height: 1.8em;
+	font-size: 1em;
+	margin-bottom: 1.5em;
 }
-.registration_left{
-	float: left;
-	width: 45.33333%;
-	margin-left: 9.333%;
+
+	.log p span {
+		display: inline-block;
+		cursor: pointer;
+		color: #1a1818;
+		text-decoration: underline;
+	}
+
+/* -------- Form Login -------- */
+.log form {
+	margin-top: 1.5em;
 }
-.registration_left:first-child{
-	margin-left: 0;
+
+	.log form input[type="text"],
+	.log form input[type="password"] {
+		width: 100%;
+		padding: 10px;
+		font-size: 1em;
+		font-weight: 400;
+		border: 1px solid #d6d6d6;
+		border-radius: 6px;
+		outline: none;
+		color: #5d5959;
+		margin-bottom: 1.5em;
+		transition: border-color 0.3s ease;
+	}
+
+		.log form input[type="text"]:focus,
+		.log form input[type="password"]:focus {
+			border-color: #00a0dc;
+		}
+
+	.log form input[type="submit"] {
+		display: inline-block;
+		background: #00a0dc;
+		padding: 0.6em 2em;
+		font-size: 1em;
+		color: #fff;
+		font-weight: 500;
+		border: none;
+		border-radius: 6px;
+		outline: none;
+		width: 100%;
+		cursor: pointer;
+		transition: 0.4s all ease;
+	}
+
+		.log form input[type="submit"]:hover {
+			background: #ed645c;
+		}
+
+.log a {
+	text-decoration: underline;
+	font-size: 0.9em;
+	color: #7b7a7a;
 }
-.registration span{
-	color: #777777;
+
+	.log a:hover {
+		color: #ed645c;
+	}
+
+/* ===============================
+   REGISTRATION SECTION
+=============================== */
+.registration {
+	padding: 3em 0;
+	background: #fff;
 }
-.registration_form{
+
+	.registration h2 {
+		font-size: 1.8em;
+		color: #333;
+		text-transform: capitalize;
+		margin-bottom: 2em;
+		font-family: 'Dosis-Bold';
+		font-weight: 300;
+		text-align: center;
+	}
+
+/* ---- Facebook register ---- */
+.reg_fb {
 	display: block;
+	margin: 2em auto;
+	background: #3b5998;
+	border-radius: 6px;
+	overflow: hidden;
+	transition: all 0.3s ease;
+	max-width: 420px;
+	color: #fff;
+	text-align: center;
 }
-.registration_form div{
-	padding:10px 0;
+
+	.reg_fb img {
+		background: #354f88;
+		padding: 10px;
+		float: left;
+	}
+
+	.reg_fb i {
+		display: inline-block;
+		padding: 12px 16px;
+		font-size: 1.3em;
+	}
+
+	.reg_fb:hover {
+		background: #354f88;
+	}
+
+/* ---- Registration Form ---- */
+.registration_form {
+	max-width: 450px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 2.5em 3em;
+	border-radius: 12px;
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
-.sky_form1{
-	margin-bottom: -30px;
+
+	.registration_form div {
+		padding: 10px 0;
+	}
+
+	.registration_form input[type="text"],
+	.registration_form input[type="email"],
+	.registration_form input[type="tel"],
+	.registration_form input[type="password"] {
+		padding: 10px;
+		width: 100%;
+		outline: none;
+		color: #333;
+		background: #fff;
+		border: 1px solid #e7e7e7;
+		border-radius: 6px;
+		transition: border-color 0.3s ease;
+	}
+
+	.registration_form input:focus {
+		border-color: #00a0dc;
+	}
+
+	.registration_form input[type="submit"] {
+		font-size: 0.85em;
+		background: #00a0dc;
+		padding: 0.8em 2em;
+		color: #fff;
+		border: none;
+		text-transform: uppercase;
+		font-weight: 500;
+		border-radius: 6px;
+		cursor: pointer;
+		transition: 0.4s ease;
+	}
+
+		.registration_form input[type="submit"]:hover {
+			background: #ed645c;
+		}
+
+/* ---- Extra ---- */
+.checkbox {
+	font-size: 0.9em;
+	color: #999;
+	margin: 10px 0;
 }
-.sky_form1 ul{
-	padding:0;
-	list-style:none;
-}
-.sky_form1 ul li{
-	float:left;
-	margin-left:20px;
-}
-.sky_form1 ul li:first-child{
-	margin-left: 0;
-}
-.radio{
-	margin-top:0;
-}
-.radio, .checkbox {
-    display: block;
-    min-height: 20px;
-    padding-left: 20px;
-    margin-bottom: 10px;
-}
-.checkbox{
-	font-size:0.9em;
-	color:#999;
-	margin:0;
-}
-label {
-	display: block;
-	margin-bottom: 0;
-	font-weight: normal;
-}
-.registration_form input[type="text"],.registration_form input[type="email"],.registration_form input[type="tel"],.registration_form input[type="password"]{
-	padding: 8px;
-	display: block;
-	width:100%;
-	outline: none;
-	color: #333333;
-	-webkit-appearance: none;
-	text-transform: capitalize;
-	background: #FFFFFF;
-	border: 1px solid rgb(231, 231, 231);
-	font-weight: normal;
-}
-.registration_form input[type="submit"]{
-	font-size: 0.75em;
-  display: inline-block;
-  background: #00a0dc;
-  padding: 0.8em 2em;
-  color: #fff;
-  text-decoration: none;
-  border:none;
-  text-transform:uppercase;
-  font-weight: 500;
-	transition: 0.5s ease;
-	-moz-transition: 0.5s ease;
-	-o-transition: 0.5s ease;
-	-webkit-transition: 0.5s ease;	
-}
-.registration_form input[type="submit"]:hover{
-	background:#ed645c;
-}
-.terms{
-	text-decoration:underline;
-	text-transform:capitalize;
+
+.terms {
+	text-decoration: underline;
 	color: #999;
 }
-.terms:hover{
-	text-decoration:none;
-	color:#333;
-}
-.forget a{
+
+	.terms:hover {
+		color: #333;
+		text-decoration: none;
+	}
+
+.forget a {
 	text-transform: capitalize;
-	color: #999999;
+	color: #999;
 	text-decoration: underline;
-	font-size: 0.8925em;
+	font-size: 0.9em;
 }
-.forget a:hover{
-	text-decoration: none;
+
+	.forget a:hover {
+		text-decoration: none;
+		color: #333;
+	}
+
+/* ===============================
+   RESPONSIVE DESIGN
+=============================== */
+@media (max-width: 600px) {
+	.log,
+	.registration_form {
+		padding: 1.5em;
+	}
+
+	.login_sec h2 {
+		font-size: 1.8em;
+	}
+
+	.registration h2 {
+		font-size: 1.5em;
+	}
 }
+
 /*--//login--*/
 /*--responsive--*/
 @media (max-width: 1440px){
