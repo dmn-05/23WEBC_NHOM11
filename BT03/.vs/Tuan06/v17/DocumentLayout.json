@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\bt nhom\\23webc_nhom11_master\\bt03\\tuan06\\data\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\data\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\bt nhom\\23webc_nhom11_master\\bt03\\tuan06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\bt nhom\\23webc_nhom11_master\\bt03\\tuan06\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,11 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Data\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "Tuan06\\Data\\ProductDAL.cs",
+              "ToolTip": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Data\\ProductDAL.cs",
+              "RelativeToolTip": "Tuan06\\Data\\ProductDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:54:25.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\appsettings.json",
+              "RelativeDocumentMoniker": "Tuan06\\appsettings.json",
+              "ToolTip": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\appsettings.json",
+              "RelativeToolTip": "Tuan06\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T18:51:41.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductTag.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\ProductTag.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\ProductTag.cs",
@@ -66,12 +100,11 @@
               "RelativeToolTip": "Tuan06\\Models\\ProductTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T08:17:25.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T08:17:25.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Tag.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Tag.cs",
@@ -83,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "WebSetting.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\WebSetting.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\WebSetting.cs",
@@ -95,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Review.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Review.cs",
@@ -107,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Contact.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Contact.cs",
@@ -119,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Category.cs",
@@ -131,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\OrderDetail.cs",
@@ -143,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Product.cs",
@@ -161,14 +194,14 @@
               "RelativeDocumentMoniker": "Tuan06\\Models\\User.cs",
               "ToolTip": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\User.cs",
               "RelativeToolTip": "Tuan06\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T06:30:33.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Cart.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Cart.cs",
@@ -180,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\BT Nhom\\23WEBC_NHOM11_Master\\BT03\\Tuan06\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Order.cs",
