@@ -232,3 +232,15 @@ D:\ASPNetCore\Tuan07\BT02\BT03\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
 D:\ASPNetCore\Tuan07\BT02\BT03\Tuan06\obj\Debug\net8.0\Tuan06.pdb
 D:\ASPNetCore\Tuan07\BT02\BT03\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
 D:\ASPNetCore\Tuan07\BT02\BT03\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.AssemblyReference.cache
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfoInputs.cache
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfo.cs
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CoreCompileInputs.cache
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.MvcApplicationPartsAssemblyInfo.cache
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cache
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cs
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.sourcelink.json
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\Ex_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.pdb
