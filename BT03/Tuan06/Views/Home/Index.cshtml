@@ -41,17 +41,17 @@
                 @foreach (var item in Model.Take(12))
                 {
                     <div class="col-md-3 feature-grid">
-                        <img src="@item.HinhAnh" alt="@item.TenSP" style="width:70%; height:200px; object-fit:cover;" />
+                        <img src="@item.ProductImage" alt="@item.ProductName" style="width:70%; height:200px; object-fit:cover;" />
                         <div class="arrival-info">
-                            <h4>@item.TenSP</h4>
-                            <p>@item.DonGiaKhuyenMai.ToString("N0") ₫</p>
-                            <span class="pric1"><del>@item.DonGia.ToString("N0") ₫</del></span>
+                            <h4>@item.ProductName</h4>
+                            <p>@item.DiscountPrice.ToString("N0") ₫</p>
+                            <span class="pric1"><del>@item.Price.ToString("N0") ₫</del></span>
                             <span class="disc">
-                                [@((int)(100 - (item.DonGiaKhuyenMai / item.DonGia * 100)))% Off]
+                                [@((int)(100 - (item.DiscountPrice / item.Price * 100)))% Off]
                             </span>
                         </div>
                         <div class="viw">
-                            <a href="/Product/Details/@item.MaSP"><span class="glyphicon glyphicon-eye-open"></span> View</a>
+                            <a href="/Product/detail/@item.ProductID"><span class="glyphicon glyphicon-eye-open"></span> View</a>
                         </div>
                     </div>
                 }

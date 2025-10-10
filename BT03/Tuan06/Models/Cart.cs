@@ -6,5 +6,7 @@
     public int ProductID { get; set; }
     public decimal Quantity { get; set; }
     public DateTime CreatedAt { get; set; }
+
+    public Product Product { get; set; }
   }
 }
