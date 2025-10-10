@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tuan06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+805fcc75cdaf11eeadacaed7a37d996321c137af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8277e987f727f85fc2c741ef39db8716eb6deb00")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tuan06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tuan06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
