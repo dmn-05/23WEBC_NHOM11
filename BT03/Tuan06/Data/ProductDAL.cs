@@ -17,7 +17,7 @@ namespace Tuan06.Data
             var products = new List<Product>();
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {
-                string sql = "SELECT ProductId, ProductName, Price, DiscountPrice, ProductImage, ProductDescription FROM Products";
+                string sql = "SELECT ProductId, ProductName, Price, DiscountPrice, ProductImage, ProductDescription FROM Product";
                 SqlCommand cmd = new SqlCommand(sql, conn);
                 conn.Open();
 
@@ -26,12 +26,12 @@ namespace Tuan06.Data
                 {
                     products.Add(new Product
                     {
-                        MaSP = (int)reader["ProductID"],
-                        TenSP = reader["ProductName"].ToString(),
-                        DonGia = (decimal)reader["Price"],
-                        DonGiaKhuyenMai =(decimal)reader["DiscountPrice"],   
-                        HinhAnh = reader["ProductImage"].ToString(),
-                        MoTa = reader["ProductDescription"].ToString(),
+                        ProductID = (int)reader["ProductID"],
+                        ProductName = reader["ProductName"].ToString(),
+                        Price = (decimal)reader["Price"],
+                        DiscountPrice =(decimal)reader["DiscountPrice"],   
+                        ProductImage = reader["ProductImage"].ToString(),
+                        ProductDescription = reader["ProductDescription"].ToString(),
                     });
                 }
             }
@@ -43,7 +43,7 @@ namespace Tuan06.Data
 
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {
-                string sql = "SELECT ProductId, ProductName, Price, DiscountPrice, ProductImage, ProductDescription FROM PRODUCTS WHERE ProductId = @ProductId";
+                string sql = "SELECT ProductId, ProductName, Price, DiscountPrice, ProductImage, ProductDescription FROM PRODUCT WHERE ProductId = @ProductId";
 
                 using (SqlCommand cmd = new SqlCommand(sql, conn))
                 {
@@ -56,12 +56,12 @@ namespace Tuan06.Data
                         {
                             product = new Product
                             {
-                                MaSP = (int)reader["ProductId"],
-                                TenSP = reader["ProductName"].ToString(),
-                                MoTa = reader["ProductDescription"].ToString(),
-                                DonGia = (decimal)reader["Price"],
-                                DonGiaKhuyenMai = (decimal)reader["DiscountPrice"],
-                                HinhAnh = reader["ProductImage"].ToString()
+                                ProductID = (int)reader["ProductId"],
+                                ProductName = reader["ProductName"].ToString(),
+                                ProductDescription = reader["ProductDescription"].ToString(),
+                                Price = (decimal)reader["Price"],
+                                DiscountPrice = (decimal)reader["DiscountPrice"],
+                                ProductImage = reader["ProductImage"].ToString()
                             };
                         }
                     }
