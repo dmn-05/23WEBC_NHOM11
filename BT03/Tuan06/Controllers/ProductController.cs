@@ -16,7 +16,7 @@ namespace Tuan06.Controllers
         // Hiển thị danh sách sản phẩm
         public IActionResult Index()
         {
-            var products = _productDAL.GetAllProducts();
+            var products = _productDAL.GetAllProducts().Take(8).ToList();
             return View(products);
         }
 

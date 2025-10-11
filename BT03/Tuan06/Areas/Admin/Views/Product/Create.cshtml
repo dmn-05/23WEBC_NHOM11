@@ -1,0 +1,68 @@
+﻿@model Tuan06.Models.Product
+
+<h2>Thêm sản phẩm mới</h2>
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="ProductName"></label>
+        <input asp-for="ProductName" class="form-control" />
+        <span asp-validation-for="ProductName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DiscountPrice"></label>
+        <input asp-for="DiscountPrice" class="form-control" />
+        <span asp-validation-for="DiscountPrice" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Quantity"></label>
+        <input asp-for="Quantity" class="form-control" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProductDescription"></label>
+        <textarea asp-for="ProductDescription" class="form-control"></textarea>
+        <span asp-validation-for="ProductDescription" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Hình ảnh</label>
+        <input type="file" name="imageFile" class="form-control" required />
+        <span asp-validation-for="ProductImage" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Danh mục</label>
+        <div class="input-group">
+            <select asp-for="CategoryID" class="form-control">
+                @foreach (var cat in ViewBag.Categories)
+                {
+                    <option value="@cat.CategoryID">@cat.CategoryName</option>
+                }
+            </select>
+            <span class="input-group-btn">
+                <a asp-area="Admin" asp-controller="Category" asp-action="Create" target="_blank" class="btn btn-success" style="margin-left:5px;" data-toggle="modal" data-target="#addCategoryModal">
+                    + Thêm danh mục
+                </a>
+            </span>
+        </div>
+        <small class="text-muted">Nếu vừa thêm danh mục mới, hãy <b>tải lại trang này</b> để cập nhật danh sách.</small>
+        <span asp-validation-for="CategoryID" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProductStatus"></label>
+        <select asp-for="ProductStatus" class="form-control">
+            <option value="true">Hiển thị</option>
+            <option value="false">Ẩn</option>
+        </select>
+        <span asp-validation-for="ProductStatus" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a asp-action="Index" class="btn btn-default">Quay lại</a>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1992,23 +1992,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Peter\\.nuget\\packages\\": {},
+    "C:\\Users\\Hiep\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BT Nhom\\23WEBC_NHOM11_Khai\\BT03\\Tuan06\\Tuan06.csproj",
+      "projectUniqueName": "D:\\HK5V2\\ASP.NET Core\\Tuan07\\23WEBC_NHOM11\\BT03\\Tuan06\\Tuan06.csproj",
       "projectName": "Tuan06",
-      "projectPath": "D:\\BT Nhom\\23WEBC_NHOM11_Khai\\BT03\\Tuan06\\Tuan06.csproj",
-      "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-      "outputPath": "D:\\BT Nhom\\23WEBC_NHOM11_Khai\\BT03\\Tuan06\\obj\\",
+      "projectPath": "D:\\HK5V2\\ASP.NET Core\\Tuan07\\23WEBC_NHOM11\\BT03\\Tuan06\\Tuan06.csproj",
+      "packagesPath": "C:\\Users\\Hiep\\.nuget\\packages\\",
+      "outputPath": "D:\\HK5V2\\ASP.NET Core\\Tuan07\\23WEBC_NHOM11\\BT03\\Tuan06\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hiep\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2035,7 +2035,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -2073,7 +2073,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

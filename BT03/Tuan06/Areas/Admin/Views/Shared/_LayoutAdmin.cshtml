@@ -288,6 +288,9 @@
                         <li>
                             <a asp-area="Admin" asp-controller="Product" asp-action="Index"><i class="fa fa-dashboard fa-fw"></i> Quản Lý Sản Phẩm</a>
                         </li>
+                        <li>
+                            <a asp-area="Admin" asp-controller="Category" asp-action="Index"><i class="fa fa-dashboard fa-fw"></i> Quản Lý Danh mục</a>
+                        </li>
                     </ul>
                 </div>
                 <!-- /.sidebar-collapse -->
@@ -316,5 +319,6 @@
 
         <!-- Custom Theme JavaScript -->
         <script src="/admin/lib/dist/js/sb-admin-2.js"></script>
+    @RenderSection("Scripts", required: false)
  </body>
  </html> 

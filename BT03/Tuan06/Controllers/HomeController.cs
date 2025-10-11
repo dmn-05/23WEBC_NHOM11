@@ -12,12 +12,29 @@ namespace Tuan06.Controllers
             _productDAL = new ProductDAL(configuration);
         }
         //Khai_Lấy 8 sp đầu tiên trong danh sách
-        public IActionResult Index()
+        //public IActionResult Index()
+        //{
+        //    var products= _productDAL.GetAllProducts().Take(8).ToList();
+        //    return View(products); //truyen sang view
+        //}
+        public IActionResult Index(int page = 1)
         {
-            var products= _productDAL.GetAllProducts();
-            return View(products); //truyen sang view
-        }
+            int pageSize = 8; // số sản phẩm mỗi trang
 
+            var allProducts = _productDAL.GetAllProducts();
+            int totalProducts = allProducts.Count();
+            int totalPages = (int)Math.Ceiling((double)totalProducts / pageSize);
+
+            var products = allProducts
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
+            return View(products);
+        }
         public IActionResult Contact()
         {
             return View();
