@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PVcfMET/QUo=",
+  "dgSpecHash": "Z6SzY/06Ps4=",
   "success": true,
-  "projectFilePath": "D:\\BT Nhom\\23WEBC_NHOM11_Khai\\BT03\\Tuan06\\Tuan06.csproj",
+  "projectFilePath": "D:\\BT Nhom\\23WEBC_NHOM11_Nhat\\BT03\\Tuan06\\Tuan06.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Peter\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Peter\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
