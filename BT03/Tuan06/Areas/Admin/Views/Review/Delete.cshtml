@@ -1,0 +1,18 @@
+﻿@model Tuan06.Models.Review
+@{
+    ViewData["Title"] = "Xóa đánh giá";
+}
+
+<h2 class="text-danger">Xóa Đánh giá</h2>
+
+<div class="alert alert-warning">
+    <p>Bạn có chắc muốn xóa đánh giá của khách hàng <strong>@Model.User?.FullName</strong> cho sản phẩm <strong>@Model.Product?.ProductName</strong> không?</p>
+    <p>Nội dung: <em>@Model.Comment</em></p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="ReviewID" />
+
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

@@ -1,0 +1,71 @@
+﻿@model Tuan06.Models.Order
+@{
+    Layout = null; // bỏ layout khi in
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Hóa đơn - Đơn @Model.OrderID</title>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            border: 1px solid #999;
+            padding: 8px;
+            text-align: left;
+        }
+
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>HÓA ĐƠN BÁN HÀNG</h2>
+    <p><strong>Mã đơn:</strong> @Model.OrderID</p>
+    <p><strong>Khách hàng:</strong> @Model.User?.FullName</p>
+    <p><strong>Ngày lập:</strong> @Model.CreatedAt.ToString("dd/MM/yyyy")</p>
+    <hr />
+
+    <table>
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Thành tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderDetails)
+            {
+                <tr>
+                    <td>@item.Product?.ProductName</td>
+                    <td>@item.Quantity</td>
+                    <td>@string.Format("{0:N0} ₫", item.Price)</td>
+                    <td>@string.Format("{0:N0} ₫", item.Quantity * item.Price)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3 style="text-align:right; margin-top:10px;">
+        Tổng tiền: @string.Format("{0:N0} ₫", Model.TotalAmount)
+    </h3>
+
+    <script>
+        window.print();
+    </script>
+</body>
+</html>

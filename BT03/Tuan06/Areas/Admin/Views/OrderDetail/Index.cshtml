@@ -1,0 +1,52 @@
+﻿@model Tuan06.Models.Order
+@{
+    ViewData["Title"] = "Chi tiết đơn hàng " + Model.OrderID;
+}
+
+<h2>Chi tiết đơn hàng @Model.OrderID</h2>
+<p><strong>Khách hàng:</strong> @Model.User?.FullName</p>
+<p><strong>Trạng thái:</strong> @Model.OrderStatus</p>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-warning">@TempData["Error"]</div>
+}
+
+<table class="table table-bordered table-striped align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>Mã CT</th>
+            <th>Sản phẩm</th>
+            <th>Số lượng</th>
+            <th>Giá</th>
+            <th>Tổng</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model.OrderDetails)
+        {
+            <tr>
+                <td>@d.ProductID</td>
+                <td>@d.Product?.ProductName</td>
+                <td>@d.Quantity</td>
+                <td>@string.Format("{0:N0} ₫", d.Price)</td>
+                <td>@string.Format("{0:N0} ₫", d.Quantity * d.Price)</td>
+                <td>
+                    @if (Model.OrderStatus != "Hoàn tất")
+                    {
+                        <a asp-action="Edit"
+                           asp-route-orderId="@d.OrderID"
+                           asp-route-productId="@d.ProductID"
+                           class="btn btn-warning btn-sm">Sửa</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><strong>Tổng tiền:</strong> @string.Format("{0:N0} ₫", Model.TotalAmount)</p>
+
+<a asp-action="Print" asp-route-orderId="@Model.OrderID" class="btn btn-info">In hóa đơn</a>
+<a asp-area="Admin" asp-controller="Order" asp-action="Index" class="btn btn-secondary">Quay lại</a>

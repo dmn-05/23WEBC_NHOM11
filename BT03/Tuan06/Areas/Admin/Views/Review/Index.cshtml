@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Tuan06.Models.Review>
+@{
+    ViewData["Title"] = "Quản lý đánh giá";
+}
+
+<h2>Quản lý Đánh giá sản phẩm</h2>
+
+<form method="get" class="d-flex mb-3">
+    <input type="text" name="search" value="@ViewBag.Search" placeholder="Tìm theo tên khách hàng hoặc sản phẩm..." class="form-control me-2" />
+    <button class="btn btn-primary">Tìm</button>
+</form>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Không có đánh giá nào.</div>
+}
+else
+{
+    <table class="table table-bordered table-striped align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>Khách hàng</th>
+                <th>Sản phẩm</th>
+                <th>Đánh giá (sao)</th>
+                <th>Bình luận</th>
+                <th>Ngày tạo</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var r in Model)
+            {
+                <tr>
+                    <td>@r.User?.FullName</td>
+                    <td>@r.Product?.ProductName</td>
+                    <td>@r.Rating</td>
+                    <td>@r.Comment</td>
+                    <td>@r.CreatedAt.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@r.ReviewID" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Delete" asp-route-id="@r.ReviewID" class="btn btn-danger btn-sm"
+                           onclick="return confirm('Xóa đánh giá này?')">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <nav>
+        <ul class="pagination">
+            @for (int i = 1; i <= ViewBag.TotalPages; i++)
+            {
+                <li class="page-item @(i == ViewBag.Page ? "active" : "")">
+                    <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-search="@ViewBag.Search">@i</a>
+                </li>
+            }
+        </ul>
+    </nav>
+}

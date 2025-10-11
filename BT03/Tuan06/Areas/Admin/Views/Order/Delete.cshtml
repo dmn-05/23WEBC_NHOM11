@@ -1,0 +1,49 @@
+﻿@model Tuan06.Models.Order
+@{
+    ViewData["Title"] = "Xóa đơn hàng";
+}
+
+<h2 class="text-danger">Xóa đơn hàng</h2>
+
+@if (Model.OrderStatus == "Hoàn tất")
+{
+    <div class="alert alert-warning">
+        <strong>Không thể xóa đơn hàng này vì đã hoàn tất.</strong>
+    </div>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+}
+else
+{
+    <div class="alert alert-warning">
+        Bạn có chắc muốn xóa đơn hàng <strong>@Model.OrderID</strong> không?<br />
+        Sau khi xóa, hệ thống sẽ tự động hoàn trả lại tồn kho sản phẩm.
+    </div>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Thành tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.OrderDetails)
+            {
+                <tr>
+                    <td>@item.Product?.ProductName</td>
+                    <td>@item.Quantity</td>
+                    <td>@string.Format("{0:N0} ₫", item.Price)</td>
+                    <td>@string.Format("{0:N0} ₫", item.Quantity * item.Price)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="OrderID" />
+        <button type="submit" class="btn btn-danger">Xóa</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+}

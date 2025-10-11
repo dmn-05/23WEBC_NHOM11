@@ -1,0 +1,37 @@
+﻿@model Tuan06.Models.Order
+@{
+    ViewData["Title"] = "Chi tiết đơn hàng";
+}
+
+<h3>Chi tiết đơn hàng @Model.OrderID</h3>
+
+<p><strong>Khách hàng:</strong> @Model.User?.FullName</p>
+<p><strong>Email:</strong> @Model.User?.Email</p>
+<p><strong>Trạng thái:</strong> @Model.OrderStatus</p>
+<p><strong>Ngày tạo:</strong> @Model.CreatedAt?.ToString("dd/MM/yyyy")</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Sản phẩm</th>
+            <th>Số lượng</th>
+            <th>Giá</th>
+            <th>Tổng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderDetails)
+        {
+            <tr>
+                <td>@item.Product?.ProductName</td>
+                <td>@item.Quantity</td>
+                <td>@string.Format("{0:N0} ₫", item.Price)</td>
+                <td>@string.Format("{0:N0} ₫", item.Quantity * item.Price)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><strong>Tổng tiền: </strong>@string.Format("{0:N0} ₫", Model.TotalAmount)</p>
+
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>

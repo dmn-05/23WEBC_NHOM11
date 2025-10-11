@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Tuan06.Models.User>
+@{
+    ViewData["Title"] = "Quản lý người dùng";
+}
+
+<h2 class="mb-3">Quản lý người dùng</h2>
+
+<form method="get" class="d-flex mb-3">
+    <input type="text" name="search" value="@ViewBag.CurrentSearch" placeholder="Tìm theo tên hoặc username..." class="form-control me-2" />
+    <select name="role" class="form-select me-2" style="max-width:200px">
+        <option value="">--Tất cả vai trò--</option>
+        <option value="1" selected="@(ViewBag.CurrentRole == 1)">Admin</option>
+        <option value="2" selected="@(ViewBag.CurrentRole == 2)">Nhân viên</option>
+        <option value="3" selected="@(ViewBag.CurrentRole == 3)">Khách hàng</option>
+    </select>
+    <button class="btn btn-primary">Tìm kiếm</button>
+</form>
+
+<a asp-action="Create" class="btn btn-success mb-3">+ Thêm người dùng</a>
+
+<table class="table table-bordered table-striped align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>UserName</th>
+            <th>FullName</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Role</th>
+            <th>Trạng thái</th>
+            <th>Ngày tạo</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.UserID</td>
+                <td>@u.UserName</td>
+                <td>@u.FullName</td>
+                <td>@u.Email</td>
+                <td>@u.Phone</td>
+                <td>
+                    @(u.UserRole == "1" ? "Admin" : u.UserRole == "2" ? "Nhân viên" : "Khách hàng")
+                </td>
+                <td>
+                    <a asp-action="ToggleStatus" asp-route-id="@u.UserID" class="btn btn-sm @(u.UserStatus ? "btn-success" : "btn-secondary")">
+                        @(u.UserStatus ? "Hoạt động" : "Khóa")
+                    </a>
+                </td>
+                <td>@u.CreatedAt.ToString("dd/MM/yyyy")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@u.UserID" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-action="Delete" asp-route-id="@u.UserID" class="btn btn-danger btn-sm"
+                       onclick="return confirm('Bạn có chắc muốn xóa người dùng này không?')">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            <li class="page-item @(i == ViewBag.Page ? "active" : "")">
+                <a class="page-link"
+                   asp-action="Index"
+                   asp-route-page="@i"
+                   asp-route-search="@ViewBag.CurrentSearch"
+                   asp-route-role="@ViewBag.CurrentRole">@i</a>
+            </li>
+        }
+    </ul>
+</nav>

@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Tuan06.Models.Order>
+@{
+    ViewData["Title"] = "Quản lý Đơn hàng";
+}
+
+<h2>Quản lý Đơn hàng</h2>
+
+<form method="get" class="d-flex mb-3">
+    <input type="text" name="search" value="@ViewBag.CurrentSearch" placeholder="Tìm theo tên khách hàng..." class="form-control me-2" />
+    <input type="date" name="date" value="@ViewBag.CurrentDate" class="form-control me-2" />
+    <select name="status" class="form-select me-2" style="max-width:200px">
+        <option value="">--Tất cả trạng thái--</option>
+        <option value="Chờ xử lý" selected="@(ViewBag.CurrentStatus == "Chờ xử lý")">Chờ xử lý</option>
+        <option value="Đang giao" selected="@(ViewBag.CurrentStatus == "Đang giao")">Đang giao</option>
+        <option value="Hoàn tất" selected="@(ViewBag.CurrentStatus == "Hoàn tất")">Hoàn tất</option>
+        <option value="Hủy" selected="@(ViewBag.CurrentStatus == "Hủy")">Hủy</option>
+    </select>
+    <button class="btn btn-primary">Tìm kiếm</button>
+</form>
+
+<table class="table table-bordered table-striped align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>Mã đơn</th>
+            <th>Khách hàng</th>
+            <th>Tổng tiền</th>
+            <th>Trạng thái</th>
+            <th>Ngày tạo</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var o in Model)
+        {
+            <tr>
+                <td>@o.OrderID</td>
+                <td>@o.User?.FullName</td>
+                <td>@string.Format("{0:N0} ₫", o.TotalAmount)</td>
+                <td>@o.OrderStatus</td>
+                <td>@o.CreatedAt.ToString("dd/MM/yyyy")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@o.OrderID" class="btn btn-info btn-sm">Chi tiết</a>
+                    @if (o.OrderStatus != "Hoàn tất")
+                    {
+                        <a asp-action="Edit" asp-route-id="@o.OrderID" class="btn btn-warning btn-sm">Cập nhật</a>
+                        <a asp-action="Delete" asp-route-id="@o.OrderID" class="btn btn-danger btn-sm"
+                           onclick="return confirm('Bạn có chắc muốn xóa đơn hàng này không?')">Xóa</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            <li class="page-item @(i == ViewBag.Page ? "active" : "")">
+                <a class="page-link"
+                   asp-action="Index"
+                   asp-route-page="@i"
+                   asp-route-search="@ViewBag.CurrentSearch"
+                   asp-route-status="@ViewBag.CurrentStatus"
+                   asp-route-date="@ViewBag.CurrentDate">@i</a>
+            </li>
+        }
+    </ul>
+</nav>

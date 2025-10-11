@@ -1,0 +1,41 @@
+﻿@model Tuan06.Models.Order
+@{
+    ViewData["Title"] = "Cập nhật trạng thái đơn hàng";
+}
+
+<h2>Cập nhật trạng thái đơn hàng</h2>
+
+<div class="card p-3">
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="OrderID" />
+
+        <div class="mb-3">
+            <label><strong>Mã đơn hàng:</strong></label>
+            <input asp-for="OrderID" class="form-control" readonly />
+        </div>
+
+        <div class="mb-3">
+            <label><strong>Khách hàng:</strong></label>
+            <input value="@Model.User?.FullName" class="form-control" readonly />
+        </div>
+
+        <div class="mb-3">
+            <label><strong>Trạng thái hiện tại:</strong></label>
+            <select asp-for="OrderStatus" class="form-select" readonly="readonly"
+                    style="pointer-events:none; background:#eee;">
+                <option value="Chờ xử lý" selected="@(Model.OrderStatus=="Chờ xử lý")">Chờ xử lý</option>
+                <option value="Đang giao" selected="@(Model.OrderStatus=="Đang giao")">Đang giao</option>
+                <option value="Hoàn tất" selected="@(Model.OrderStatus=="Hoàn tất")">Hoàn tất</option>
+                <option value="Hủy" selected="@(Model.OrderStatus=="Hủy")">Hủy</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label><strong>Ngày tạo:</strong></label>
+            <input asp-for="CreatedAt" class="form-control" readonly />
+        </div>
+
+        <button type="submit" class="btn btn-primary" @(Model.OrderStatus == "Hoàn tất" ? "disabled" : "")>Lưu thay đổi</button>
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </form>
+</div>

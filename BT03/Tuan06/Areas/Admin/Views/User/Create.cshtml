@@ -1,0 +1,61 @@
+﻿@model Tuan06.Models.User
+@{
+    ViewData["Title"] = "Thêm người dùng";
+}
+
+<h3>Thêm người dùng mới</h3>
+
+<form asp-action="Create">
+    <div class="mb-3">
+        <label>Tên đăng nhập</label>
+        <input asp-for="UserName" class="form-control" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Mật khẩu</label>
+        <input asp-for="UserPassword" type="password" class="form-control" />
+        <span asp-validation-for="UserPassword" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Họ tên</label>
+        <input asp-for="FullName" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Số điện thoại</label>
+        <input asp-for="Phone" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Địa chỉ</label>
+        <input asp-for="UserAddress" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Vai trò</label>
+        <select asp-for="UserRole" class="form-select">
+            <option value="1">Admin</option>
+            <option value="2">Nhân viên</option>
+            <option value="3">Khách hàng</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label>Trạng thái</label>
+        <select asp-for="UserStatus" class="form-select">
+            <option value="true">Hoạt động</option>
+            <option value="false">Khóa</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

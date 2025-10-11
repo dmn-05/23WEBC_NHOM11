@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Tuan06.Data;
@@ -11,6 +12,12 @@ builder.Services.AddTransient<Tuan06.Data.ProductDAL>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Begin Phat
+// Thêm c?u h?nh k?t n?i EF Core (DbContext)
+builder.Services.AddDbContext<MyDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+//Emd Phat
 
 // ? Thêm DistributedMemoryCache (n?u không có s? báo l?i khi Session ch?y)
 builder.Services.AddDistributedMemoryCache();

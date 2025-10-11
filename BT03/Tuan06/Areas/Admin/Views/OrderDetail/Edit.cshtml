@@ -1,0 +1,30 @@
+﻿@model Tuan06.Models.OrderDetail
+@{
+    ViewData["Title"] = "Sửa chi tiết đơn hàng";
+}
+
+<h2>Sửa chi tiết đơn hàng</h2>
+
+<form asp-action="Edit">
+    <!-- Thay vì OrderDetailID -->
+    <input type="hidden" asp-for="OrderID" />
+    <input type="hidden" asp-for="ProductID" />
+
+    <div class="mb-3">
+        <label><strong>Sản phẩm:</strong></label>
+        <input value="@Model.Product?.ProductName" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label><strong>Số lượng:</strong></label>
+        <input asp-for="Quantity" class="form-control" type="number" min="1" />
+    </div>
+
+    <div class="mb-3">
+        <label><strong>Giá:</strong></label>
+        <input asp-for="Price" class="form-control" type="number" step="1000" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+    <a asp-action="Index" asp-route-orderId="@Model.OrderID" class="btn btn-secondary">Hủy</a>
+</form>

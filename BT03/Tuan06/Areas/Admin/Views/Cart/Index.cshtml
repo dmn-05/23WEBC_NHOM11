@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Tuan06.Models.Cart>
+@{
+    ViewData["Title"] = "Quản lý Giỏ hàng";
+}
+
+<h2>Quản lý Giỏ hàng</h2>
+
+<form method="get" class="d-flex mb-3">
+    <input type="text" name="search" value="@ViewBag.Search" placeholder="Tìm theo tên khách hàng..." class="form-control me-2" />
+    <button class="btn btn-primary">Tìm</button>
+</form>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Không có sản phẩm trong giỏ.</div>
+}
+else
+{
+    <table class="table table-bordered table-striped align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>Khách hàng</th>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Ngày tạo</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.User?.FullName</td>
+                    <td>@c.Product?.ProductName</td>
+                    <td>@c.Quantity</td>
+                    <td>@c.CreatedAt.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-userId="@c.UserID" asp-route-productId="@c.ProductID" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Delete" asp-route-userId="@c.UserID" asp-route-productId="@c.ProductID" class="btn btn-danger btn-sm"
+                           onclick="return confirm('Bạn có chắc muốn xóa sản phẩm này khỏi giỏ?')">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

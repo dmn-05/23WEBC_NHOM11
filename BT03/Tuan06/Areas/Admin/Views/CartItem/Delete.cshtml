@@ -1,0 +1,16 @@
+﻿@model Tuan06.Models.Cart
+@{
+    ViewData["Title"] = "Xóa sản phẩm khỏi giỏ hàng";
+}
+
+<h2 class="text-danger">Xóa Sản phẩm khỏi Giỏ hàng</h2>
+
+<p>Bạn có chắc muốn xóa sản phẩm <strong>@Model.Product?.ProductName</strong> khỏi giỏ hàng của khách hàng <strong>@Model.User?.FullName</strong> không?</p>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="UserID" />
+    <input type="hidden" asp-for="ProductID" />
+
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

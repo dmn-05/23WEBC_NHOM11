@@ -1,0 +1,22 @@
+﻿@model Tuan06.Models.Tag
+@{
+    ViewData["Title"] = "Thêm Tag";
+}
+
+<h2>Thêm Tag mới</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label>Tên Tag</label>
+        <input asp-for="TagName" class="form-control" />
+        <span asp-validation-for="TagName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Mô tả</label>
+        <textarea asp-for="TagDescription" class="form-control" rows="3"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

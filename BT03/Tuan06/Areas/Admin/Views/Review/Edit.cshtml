@@ -1,0 +1,35 @@
+﻿@model Tuan06.Models.Review
+@{
+    ViewData["Title"] = "Chỉnh sửa đánh giá";
+}
+
+<h2>Chỉnh sửa Đánh giá</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="ReviewID" />
+
+    <div class="mb-3">
+        <label>Khách hàng</label>
+        <input value="@Model.User?.FullName" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label>Sản phẩm</label>
+        <input value="@Model.Product?.ProductName" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label>Số sao</label>
+        <input asp-for="Rating" type="number" min="1" max="5" class="form-control" />
+        <span asp-validation-for="Rating" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Bình luận</label>
+        <textarea asp-for="Comment" class="form-control" rows="3"></textarea>
+        <span asp-validation-for="Comment" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>
