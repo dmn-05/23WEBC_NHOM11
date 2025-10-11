@@ -1,0 +1,41 @@
+﻿@model Tuan06.Models.Product
+
+@{
+    ViewData["Title"] = "Thêm sản phẩm";
+}
+
+<h2>Thêm sản phẩm mới</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Tên sản phẩm</label>
+        <input asp-for="ProductName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Giá</label>
+        <input asp-for="Price" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Giá khuyến mãi</label>
+        <input asp-for="DiscountPrice" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Hình ảnh</label>
+        <input type="file" name="ProductImage" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Mô tả</label>
+        <textarea asp-for="ProductDescription" class="form-control"></textarea>
+    </div>
+
+    <div class="form-group">
+        <label>Mã danh mục</label>
+        <input asp-for="CategoryID" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3">Lưu</button>
+</form>

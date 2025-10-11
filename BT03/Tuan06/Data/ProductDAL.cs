@@ -17,7 +17,7 @@ namespace Tuan06.Data
             var products = new List<Product>();
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {
-                string sql = "SELECT ProductId, ProductName, Price, DiscountPrice, ProductImage, ProductDescription FROM Product";
+                string sql = "SELECT ProductID, ProductName, Price, DiscountPrice, ProductImage, ProductDescription, Category.CategoryID, Category.CategoryName FROM Product join Category on Product.CategoryID=Category.CategoryID";
                 SqlCommand cmd = new SqlCommand(sql, conn);
                 conn.Open();
 
@@ -29,9 +29,10 @@ namespace Tuan06.Data
                         ProductID = (int)reader["ProductID"],
                         ProductName = reader["ProductName"].ToString(),
                         Price = (decimal)reader["Price"],
-                        DiscountPrice =(decimal)reader["DiscountPrice"],   
+                        DiscountPrice = (decimal)reader["DiscountPrice"],
                         ProductImage = reader["ProductImage"].ToString(),
                         ProductDescription = reader["ProductDescription"].ToString(),
+                        CategoryID = (int)reader["CategoryID"]
                     });
                 }
             }
@@ -43,7 +44,7 @@ namespace Tuan06.Data
 
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {
-                string sql = "SELECT ProductId, ProductName, Price, DiscountPrice, ProductImage, ProductDescription FROM PRODUCT WHERE ProductId = @ProductId";
+                string sql = "SELECT ProductID, ProductName, Price, DiscountPrice, ProductImage, ProductDescription, Category.CategoryID, Category.CategoryName FROM Product join Category on Product.CategoryID=Category.CategoryID WHERE ProductId = @ProductId";
 
                 using (SqlCommand cmd = new SqlCommand(sql, conn))
                 {
@@ -56,12 +57,13 @@ namespace Tuan06.Data
                         {
                             product = new Product
                             {
-                                ProductID = (int)reader["ProductId"],
+                                ProductID = (int)reader["ProductID"],
                                 ProductName = reader["ProductName"].ToString(),
                                 ProductDescription = reader["ProductDescription"].ToString(),
                                 Price = (decimal)reader["Price"],
                                 DiscountPrice = (decimal)reader["DiscountPrice"],
-                                ProductImage = reader["ProductImage"].ToString()
+                                ProductImage = reader["ProductImage"].ToString(),
+                                CategoryID = (int)reader["CategoryID"]
                             };
                         }
                     }
@@ -69,6 +71,22 @@ namespace Tuan06.Data
             }
 
             return product;
+        }
+        public void AddProduct(Product product)
+        {
+            using (SqlConnection conn = new SqlConnection(_connectionString))
+            {
+                string sql = "INSERT INTO Product (ProductName, Price, DiscountPrice, ProductImage, ProductDescription, CategoryID) VALUES (@ProductName, @Price, @DiscountPrice, @ProductImage, @ProductDescription, @CategoryID)";
+                SqlCommand cmd = new SqlCommand(sql, conn);
+                cmd.Parameters.AddWithValue("@ProductName", product.ProductName);
+                cmd.Parameters.AddWithValue("@Price", product.Price);
+                cmd.Parameters.AddWithValue("@DiscountPrice", product.DiscountPrice);
+                cmd.Parameters.AddWithValue("@ProductImage", product.ProductImage);
+                cmd.Parameters.AddWithValue("@ProductDescription", product.ProductDescription);
+                cmd.Parameters.AddWithValue("@CategoryID", product.CategoryID);
+                conn.Open();
+                cmd.ExecuteNonQuery();
+            }
         }
     }
 }
