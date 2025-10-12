@@ -13,10 +13,18 @@ namespace Tuan06.Controllers
             _productDAL = productDAL;
         }
 
-        // Hiển thị danh sách sản phẩm
-        public IActionResult Index()
+        //Khai - Hien thi danh sach sp (12 sp _ co phan trang)
+        public IActionResult Index(int page = 1)
         {
-            var products = _productDAL.GetAllProducts();
+            int pageSize = 12; // Moi trang co 12 san pham
+            int totalProducts;
+
+            var products = _productDAL.GetProductsPaged(page, pageSize, out totalProducts);
+            int totalPages = (int)Math.Ceiling((double)totalProducts / pageSize);
+
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
             return View(products);
         }
 
@@ -30,5 +38,6 @@ namespace Tuan06.Controllers
 
             return View(product);
         }
+       
     }
 }

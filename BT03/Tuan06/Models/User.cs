@@ -1,6 +1,6 @@
 ﻿namespace Tuan06.Models
 {
-    public class User
+    public class User //Khai
     {
         public int UserID { get; set; }
         public string FullName { get; set; }

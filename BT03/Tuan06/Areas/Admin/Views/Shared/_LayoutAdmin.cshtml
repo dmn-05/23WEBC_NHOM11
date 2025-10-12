@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Bootstrap Admin Theme</title>
+   <title>@ViewData["Title"]</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/admin/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -51,7 +51,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">SB Admin v2.0</a>
+                <a class="navbar-brand" href="index.html">Trang ADMIN</a><br />
             </div>
             <!-- /.navbar-header -->
 
@@ -288,6 +288,9 @@
                         <li>
                             <a asp-area="Admin" asp-controller="Product" asp-action="Index"><i class="fa fa-dashboard fa-fw"></i> Quản Lý Sản Phẩm</a>
                         </li>
+                        <li>
+                            <a asp-area="" asp-controller="Login" asp-action="Logout" class="btn btn-link text-danger">Đăng xuất</a> <!--"" de ra khoi area admin-->
+                        </li>
                     </ul>
                 </div>
                 <!-- /.sidebar-collapse -->
@@ -316,5 +319,8 @@
 
         <!-- Custom Theme JavaScript -->
         <script src="/admin/lib/dist/js/sb-admin-2.js"></script>
+
+    @RenderSection("Scripts", required: false)
+
  </body>
  </html> 

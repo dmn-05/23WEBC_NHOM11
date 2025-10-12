@@ -51,6 +51,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</ul>
 				</div>
 				<!---->
+				
 				<div class="cart box_1">
 					@{
 						var cartCount = Context.Session.GetInt32("CartCount") ?? 0;
@@ -63,14 +64,35 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
 					</a>
 					<div class="clearfix"> </div>
+					<!--Khải_ giao diện đăng nhập/đăng xuất-->
+					<div class="user-login" style="margin-left:20px;">
+						@{
+							var username = Context.Session.GetString("User");
+							if (string.IsNullOrEmpty(username))
+							{
+								<a asp-controller="Login" asp-action="Index" class="btn btn-link">Đăng nhập</a>
+							}
+							else
+							{
+								<span>Xin chào, <strong>@username</strong>!</span>
+								<a asp-controller="Login" asp-action="Logout" class="btn btn-link text-danger">Đăng xuất</a>
+							}
+						}
+					</div>
+					<!--end khải-->
 				</div>
+				
 				<!-------->
 				<div class="clearfix"> </div>
 				<!---->
 			</div>
+			
 			<div class="clearfix"> </div>
+		
 		</div>
+
 		<!---->
+		
 
 	</header>
 	@RenderBody();
