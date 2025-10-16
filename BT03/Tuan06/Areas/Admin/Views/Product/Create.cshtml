@@ -2,40 +2,127 @@
 
 @{
     ViewData["Title"] = "Thêm sản phẩm";
+    var categories = ViewBag.Categories as List<Tuan06.Models.Category>;
 }
 
-<h2>Thêm sản phẩm mới</h2>
+<h2 class="mb-4 text-primary">Thêm sản phẩm mới</h2>
 
-<form asp-action="Create" method="post" enctype="multipart/form-data">
-    <div class="form-group">
-        <label>Tên sản phẩm</label>
+<form asp-area="Admin" asp-action="Create" method="post" enctype="multipart/form-data">
+    <!--Tên sản phẩm -->
+    <div class="form-group mb-3">
+        <label asp-for="ProductName" class="form-label">Tên sản phẩm</label>
         <input asp-for="ProductName" class="form-control" />
+        <span asp-validation-for="ProductName" class="text-danger"></span>
     </div>
 
-    <div class="form-group">
-        <label>Giá</label>
+    <!-- Giá -->
+    <div class="form-group mb-3">
+        <label asp-for="Price" class="form-label">Giá</label>
         <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
     </div>
 
-    <div class="form-group">
-        <label>Giá khuyến mãi</label>
+    <!--Giá khuyến mãi -->
+    <div class="form-group mb-3">
+        <label asp-for="DiscountPrice" class="form-label">Giá khuyến mãi</label>
         <input asp-for="DiscountPrice" class="form-control" />
+        <span asp-validation-for="DiscountPrice" class="text-danger"></span>
     </div>
 
-    <div class="form-group">
+    <!--Hình ảnh -->
+    <div class="form-group mb-3">
         <label>Hình ảnh</label>
         <input type="file" name="ProductImage" class="form-control" />
     </div>
 
-    <div class="form-group">
-        <label>Mô tả</label>
-        <textarea asp-for="ProductDescription" class="form-control"></textarea>
+    <div class="form-group mb-3">
+        <label asp-for="Quantity" class="form-label">Số lượng tồn</label>
+        <input asp-for="Quantity" class="form-control" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
     </div>
 
-    <div class="form-group">
-        <label>Mã danh mục</label>
-        <input asp-for="CategoryID" class="form-control" />
+    <!-- Mô tả -->
+    <div class="form-group mb-3">
+        <label asp-for="ProductDescription" class="form-label">Mô tả</label>
+        <textarea asp-for="ProductDescription" class="form-control" id="ProductDescription"></textarea>
+        <span asp-validation-for="ProductDescription" class="text-danger"></span>
     </div>
 
-    <button type="submit" class="btn btn-success mt-3">Lưu</button>
+    <!-- Danh mục -->
+    <div class="form-group mb-3">
+        <label>Tên danh mục</label>
+        <div class="d-flex">
+            <select name="CategoryID" class="form-control me-2">
+                <option value="">-- Chọn danh mục --</option>
+                @if (categories != null)
+                {
+                    foreach (var cat in categories)
+                    {
+                        <option value="@cat.CategoryID">@cat.CategoryName</option>
+                    }
+                }
+            </select>
+
+            <!-- Nút mở modal thêm danh mục -->
+            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#addCategoryModal">
+                + Thêm danh mục
+            </button>
+        </div>
+        <span asp-validation-for="CategoryID" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3">Lưu sản phẩm</button>
 </form>
+
+
+<!-- Modal thêm danh mục -->
+<div class="modal fade" id="addCategoryModal" tabindex="-1" aria-labelledby="addCategoryModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addCategoryModalLabel">Thêm danh mục mới</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="input-group">
+                    <input type="text" id="newCategoryName" class="form-control" placeholder="Nhập tên danh mục" />
+                    <button type="button" id="btnAddCategory" class="btn btn-success">Lưu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // CKEditor
+        CKEDITOR.replace("ProductDescription");
+
+        // AJAX thêm danh mục
+        document.getElementById("btnAddCategory").addEventListener("click", function () {
+            const name = document.getElementById("newCategoryName").value.trim();
+            if (name === "") return alert("Vui lòng nhập tên danh mục!");
+
+            fetch('/Admin/Category/AddCategory', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                },
+                body: JSON.stringify({ categoryName: name })
+            })
+            .then(res => res.json())
+            .then(data => {
+                if (data.success) {
+                    alert("Đã thêm danh mục mới!");
+                    location.reload(); // tải lại để cập nhật danh sách
+                } else {
+                    alert("Thêm thất bại!");
+                }
+            });
+        });
+    </script>
+}

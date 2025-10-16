@@ -62,6 +62,7 @@ ul.memenu.skyblue {text-align: center;}
 .skyblue>li:hover>a,.skyblue>li.active>a,.skyblue .dropdown li:hover>a{color:#00a0dc}.
 skyblue .mepanel img:hover,.skyblue form.contact input[type="text"]:focus,.skyblue form.contact textarea:focus{border:solid 1px #0194be}
 .skyblue form.contact input[type="submit"]{background:#0194be}
+
 @media (max-width: 991px){
 .memenu>li>a {
     padding: 38px 26px;
@@ -206,4 +207,43 @@ left: 4.5%;
   font-size: 1em;
 }
 }
+
+.header-bottom {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.header-bottom .logo {
+	flex: 1;
+}
+
+.header-bottom .top-nav {
+	flex: 2;
+	text-align: center;
+}
+
+.header-bottom .cart,
+.header-bottom .user-login {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.header-bottom .user-login {
+	margin-left: 10px;
+}
+
+	.header-bottom .user-login a {
+		text-decoration: none;
+		color: #007bff;
+		font-weight: 500;
+	}
+
+		.header-bottom .user-login a:hover {
+			text-decoration: underline;
+		}
+
+
+
 	

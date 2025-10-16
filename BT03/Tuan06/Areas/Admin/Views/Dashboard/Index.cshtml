@@ -1,7 +1,8 @@
 ﻿@{
     ViewData["Title"] = "Dashboard";
 }
-
-<h1 class="page-header">Dashboard</h1>
-
+@{
+    var username = Context.Session.GetString("User");
+    <h1>Xin chào, <strong>@username</strong>!</h1>
+}
 

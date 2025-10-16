@@ -1,4 +1,3 @@
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Tuan06.Data;
@@ -9,34 +8,33 @@ var builder = WebApplication.CreateBuilder(args);
 //builder.Services.AddSingleton<IProductService, ProductService>();
 // End Khai
 builder.Services.AddTransient<Tuan06.Data.ProductDAL>();
-builder.Services.AddTransient<Tuan06.Data.CategoryDAL>();
-builder.Services.AddSession();
+
+// Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// ? Th�m DistributedMemoryCache (n?u kh�ng c� s? b�o l?i khi Session ch?y)
-builder.Services.AddDistributedMemoryCache();
-
+builder.Services.AddDistributedMemoryCache(); //dang ky bo nho dem tam thoi
 // begin khai
-builder.Services.AddSession(options => {
-  options.IdleTimeout = TimeSpan.FromMinutes(30);
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); 
 });
 // end khai
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment()) {
-  app.UseExceptionHandler("/Home/Error");
-  app.UseHsts();
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
 }
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-// begin phat
-app.UseSession(); // ph?i �?t tr�?c UseAuthorization v� MapControllerRoute
-// end phat
+
+app.UseSession(); //su dung session
+
 app.UseAuthorization();
 
 app.MapControllerRoute(

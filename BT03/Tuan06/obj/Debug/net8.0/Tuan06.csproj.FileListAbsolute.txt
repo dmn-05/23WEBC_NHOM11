@@ -341,197 +341,179 @@ D:\BT Nhom\23WEBC_NHOM11_Khai\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.upToD
 D:\BT Nhom\23WEBC_NHOM11_Khai\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.Up2Date
 D:\BT Nhom\23WEBC_NHOM11_Khai\BT03\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
 D:\BT Nhom\23WEBC_NHOM11_Khai\BT03\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\appsettings.Development.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\appsettings.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.endpoints.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Tuan06.exe
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Tuan06.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Tuan06.pdb
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Azure.Core.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Azure.Identity.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.ClientModel.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Formats.Asn1.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.IO.Pipelines.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Memory.Data.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\System.Text.Json.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.AssemblyReference.cache
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.GeneratedMSBuildEditorConfig.editorconfig
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfoInputs.cache
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfo.cs
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CoreCompileInputs.cache
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.MvcApplicationPartsAssemblyInfo.cache
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cache
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cs
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.sourcelink.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\scopedcss\bundle\Tuan06.styles.css
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\scopedcss\projectbundle\Tuan06.bundle.scp.css
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.build.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.development.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssets.props
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.build.Tuan06.props
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tuan06.props
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tuan06.props
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.pack.json
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.Up2Date
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.pdb
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
-D:\BT Nhom\23WEBC_NHOM11_Nhat\BT03\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.AssemblyReference.cache
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.GeneratedMSBuildEditorConfig.editorconfig
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfoInputs.cache
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfo.cs
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CoreCompileInputs.cache
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.MvcApplicationPartsAssemblyInfo.cache
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cache
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cs
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.sourcelink.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.pdb
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\appsettings.Development.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\appsettings.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.endpoints.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Tuan06.exe
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Tuan06.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Tuan06.pdb
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Azure.Core.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Azure.Identity.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.ClientModel.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Formats.Asn1.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.IO.Pipelines.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Memory.Data.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\System.Text.Json.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\scopedcss\bundle\Tuan06.styles.css
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\scopedcss\projectbundle\Tuan06.bundle.scp.css
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.build.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.development.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssets.props
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.build.Tuan06.props
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tuan06.props
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tuan06.props
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.pack.json
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.Up2Date
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
-D:\BT Nhom\23WEBC_NHOM11_Main\BT03\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\appsettings.Development.json
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\appsettings.json
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Tuan06.exe
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Tuan06.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Tuan06.pdb
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Azure.Core.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Azure.Identity.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.ClientModel.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\System.Text.Json.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.build.json
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.development.json
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.Tuan06.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.build.Tuan06.props
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tuan06.props
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tuan06.props
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\scopedcss\bundle\Tuan06.styles.css
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\scopedcss\projectbundle\Tuan06.bundle.scp.css
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CopyComplete
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
+E:\Nam_Ba\asp\btnhom\EX_Core3\23WEBC_NHOM11\BT03\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\appsettings.Development.json
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\appsettings.json
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.runtime.json
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Tuan06.staticwebassets.endpoints.json
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Tuan06.exe
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Tuan06.deps.json
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Tuan06.runtimeconfig.json
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Tuan06.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Tuan06.pdb
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Azure.Core.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Azure.Identity.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.ClientModel.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\System.Text.Json.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ASPNetCore\BT03\Tuan06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.AssemblyReference.cache
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfoInputs.cache
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.AssemblyInfo.cs
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.CoreCompileInputs.cache
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cache
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.RazorAssemblyInfo.cs
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\scopedcss\bundle\Tuan06.styles.css
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\scopedcss\projectbundle\Tuan06.bundle.scp.css
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.csproj.Up2Date
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.dll
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\refint\Tuan06.dll
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.pdb
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\Tuan06.genruntimeconfig.cache
+D:\ASPNetCore\BT03\Tuan06\obj\Debug\net8.0\ref\Tuan06.dll
