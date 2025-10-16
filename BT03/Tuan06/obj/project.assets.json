@@ -1998,11 +1998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Tuan06.csproj",
+      "projectUniqueName": "D:\\BT Nhom\\23WEBC_NHOM11\\BT03\\Tuan06\\Tuan06.csproj",
       "projectName": "Tuan06",
-      "projectPath": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Tuan06.csproj",
+      "projectPath": "D:\\BT Nhom\\23WEBC_NHOM11\\BT03\\Tuan06\\Tuan06.csproj",
       "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\obj\\",
+      "outputPath": "D:\\BT Nhom\\23WEBC_NHOM11\\BT03\\Tuan06\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

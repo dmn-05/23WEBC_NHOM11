@@ -17,7 +17,7 @@ namespace Tuan06.Data
             var products = new List<Product>();
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {
-                string sql = "SELECT ProductID, ProductName, Price, DiscountPrice, ProductImage, Quantity,ProductDescription, Category.CategoryID, Category.CategoryName FROM [PRODUCT] join [CATEGORY] on Product.CategoryID=Category.CategoryID";
+                string sql = "SELECT ProductID, ProductName, Price, Quantity, DiscountPrice, ProductImage, Quantity,ProductDescription, Category.CategoryID, Category.CategoryName FROM [PRODUCT] join [CATEGORY] on Product.CategoryID=Category.CategoryID";
                 SqlCommand cmd = new SqlCommand(sql, conn);
                 conn.Open();
 
@@ -34,7 +34,6 @@ namespace Tuan06.Data
                         Quantity=reader["Quantity"]==DBNull.Value?0:(int)reader["Quantity"],
                         ProductDescription = reader["ProductDescription"].ToString(),
                         CategoryID = (int)reader["CategoryID"],
-                        CategoryName = reader["CategoryName"].ToString()
                     });
                 }
             }
@@ -46,7 +45,7 @@ namespace Tuan06.Data
 
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {
-                string sql = "SELECT ProductID, ProductName, Price, DiscountPrice, ProductImage, ProductDescription, Category.CategoryID, Category.CategoryName FROM [PRODUCT] join [CATEGORY] on Product.CategoryID=Category.CategoryID WHERE ProductId = @ProductId";
+                string sql = "SELECT ProductID, ProductName, Price, Quantity, DiscountPrice, ProductImage, ProductDescription, Category.CategoryID, Category.CategoryName FROM [PRODUCT] join [CATEGORY] on Product.CategoryID=Category.CategoryID WHERE ProductId = @ProductId";
 
                 using (SqlCommand cmd = new SqlCommand(sql, conn))
                 {
@@ -67,7 +66,6 @@ namespace Tuan06.Data
                                 ProductImage = reader["ProductImage"].ToString(),
                                 Quantity = reader["Quantity"] == DBNull.Value ? 0 : (int)reader["Quantity"],
                                 CategoryID = (int)reader["CategoryID"],
-                                CategoryName = reader["CategoryName"].ToString()
                             };
                         }
                     }

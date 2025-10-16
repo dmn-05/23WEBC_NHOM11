@@ -17,6 +17,8 @@ wwwroot\user\fonts\Dosis-Bold.ttf
 wwwroot\user\fonts\Dosis-Medium.ttf
 wwwroot\user\fonts\Dosis-Regular.ttf
 wwwroot\user\fonts\glyphicons-halflings-regular.woff
+wwwroot\user\images\1920x1080_Neon.jpg
+wwwroot\user\images\AsusRogPg32Uqx_wallpaper_B_1920x1080.jpg
 wwwroot\user\images\b-arrow.png
 wwwroot\user\images\bnr.jpg
 wwwroot\user\images\bnr2.jpg
