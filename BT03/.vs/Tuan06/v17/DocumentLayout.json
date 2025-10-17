@@ -1,117 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Peter\\Downloads\\BT03\\",
+  "WorkspaceRootPath": "D:\\Update\\23WEBC_NHOM11\\BT03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\data\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\data\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\data\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\data\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\tuan06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\tuan06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\data\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\data\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\data\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\data\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\areas\\admin\\views\\shared\\_headeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\areas\\admin\\views\\shared\\_headeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\areas\\admin\\views\\shared\\_headeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\websetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\websetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\websetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|c:\\users\\peter\\downloads\\bt03\\tuan06\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|d:\\update\\23webc_nhom11\\bt03\\tuan06\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F72053E-4F76-4790-8209-8962B232F676}|Tuan06\\Tuan06.csproj|solutionrelative:tuan06\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,27 +130,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Data\\UserDAL.cs",
-              "RelativeDocumentMoniker": "Tuan06\\Data\\UserDAL.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Data\\UserDAL.cs",
-              "RelativeToolTip": "Tuan06\\Data\\UserDAL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:44:31.632Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "AuthMiddleware.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Middleware\\AuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Tuan06\\Middleware\\AuthMiddleware.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Middleware\\AuthMiddleware.cs",
+              "RelativeToolTip": "Tuan06\\Middleware\\AuthMiddleware.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:03:21.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tuan06",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Tuan06.csproj",
+              "RelativeDocumentMoniker": "Tuan06\\Tuan06.csproj",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Tuan06.csproj",
+              "RelativeToolTip": "Tuan06\\Tuan06.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T16:02:32.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Product.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Product.cs",
               "RelativeToolTip": "Tuan06\\Models\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Tuan06\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAGkAAAAAAAAAAAAAAHIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -162,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ProductDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Data\\ProductDAL.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Data\\ProductDAL.cs",
               "RelativeDocumentMoniker": "Tuan06\\Data\\ProductDAL.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Data\\ProductDAL.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Data\\ProductDAL.cs",
               "RelativeToolTip": "Tuan06\\Data\\ProductDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Shared\\_Header.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Shared\\_Header.cshtml",
               "RelativeToolTip": "Tuan06\\Views\\Shared\\_Header.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -186,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\appsettings.json",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\appsettings.json",
               "RelativeDocumentMoniker": "Tuan06\\appsettings.json",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\appsettings.json",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\appsettings.json",
               "RelativeToolTip": "Tuan06\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -199,11 +233,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Tag.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Tag.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Tag.cs",
               "RelativeToolTip": "Tuan06\\Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +245,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Program.cs",
+              "RelativeDocumentMoniker": "Tuan06\\Program.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Program.cs",
+              "RelativeToolTip": "Tuan06\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:46:23.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Data\\UserDAL.cs",
+              "RelativeDocumentMoniker": "Tuan06\\Data\\UserDAL.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Data\\UserDAL.cs",
+              "RelativeToolTip": "Tuan06\\Data\\UserDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:44:31.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductTag.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\ProductTag.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\ProductTag.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\ProductTag.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\ProductTag.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\ProductTag.cs",
               "RelativeToolTip": "Tuan06\\Models\\ProductTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,24 +282,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Tuan06\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Tuan06\\Controllers\\LoginController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:45:59.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T09:45:59.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "Tuan06\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -248,11 +306,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Tuan06\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -260,11 +318,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Tuan06\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Tuan06\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwDMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,11 +330,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Category.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Category.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Category.cs",
               "RelativeToolTip": "Tuan06\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Tuan06\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -296,23 +354,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Program.cs",
-              "RelativeDocumentMoniker": "Tuan06\\Program.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Program.cs",
-              "RelativeToolTip": "Tuan06\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:46:23.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "_Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Shared\\_Footer.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Shared\\_Footer.cshtml",
               "RelativeToolTip": "Tuan06\\Views\\Shared\\_Footer.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAiwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -320,11 +366,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "_HeaderAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Views\\Shared\\_HeaderAdmin.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Views\\Shared\\_HeaderAdmin.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Areas\\Admin\\Views\\Shared\\_HeaderAdmin.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Views\\Shared\\_HeaderAdmin.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Views\\Shared\\_HeaderAdmin.cshtml",
               "RelativeToolTip": "Tuan06\\Areas\\Admin\\Views\\Shared\\_HeaderAdmin.cshtml",
               "ViewState": "AgIAANcAAAAAAAAAAAAiwOYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -332,11 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Tuan06\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABoAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -344,11 +390,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Tuan06\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -356,11 +402,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Cart\\Index.cshtml",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Tuan06\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Views\\Cart\\Index.cshtml",
               "RelativeToolTip": "Tuan06\\Views\\Cart\\Index.cshtml",
               "ViewState": "AgIAAJIAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -368,11 +414,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Cart.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Cart.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Cart.cs",
               "RelativeToolTip": "Tuan06\\Models\\Cart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,11 +426,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Contact.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Contact.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Contact.cs",
               "RelativeToolTip": "Tuan06\\Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -392,11 +438,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Controllers\\CartController.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Tuan06\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Controllers\\CartController.cs",
               "RelativeToolTip": "Tuan06\\Controllers\\CartController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwIYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,11 +450,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "WebSetting.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\WebSetting.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\WebSetting.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\WebSetting.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\WebSetting.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\WebSetting.cs",
               "RelativeToolTip": "Tuan06\\Models\\WebSetting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -416,11 +462,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Review.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Review.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Review.cs",
               "RelativeToolTip": "Tuan06\\Models\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,11 +474,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\OrderDetail.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\OrderDetail.cs",
               "RelativeToolTip": "Tuan06\\Models\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,11 +486,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\User.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\User.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\User.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\User.cs",
               "RelativeToolTip": "Tuan06\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -452,11 +498,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Tuan06\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Peter\\Downloads\\BT03\\Tuan06\\Models\\Order.cs",
+              "ToolTip": "D:\\Update\\23WEBC_NHOM11\\BT03\\Tuan06\\Models\\Order.cs",
               "RelativeToolTip": "Tuan06\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
