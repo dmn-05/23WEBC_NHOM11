@@ -6,6 +6,12 @@ wwwroot\admin\js\morris-data.js
 wwwroot\admin\less\mixins.less
 wwwroot\admin\less\sb-admin-2.less
 wwwroot\admin\less\variables.less
+wwwroot\admin\vendor\jquery\jquery.js
+wwwroot\admin\vendor\jquery\jquery.min.js
+wwwroot\admin\vendor\jquery\jquery.min.map
+wwwroot\admin\vendor\jquery\jquery.slim.js
+wwwroot\admin\vendor\jquery\jquery.slim.min.js
+wwwroot\admin\vendor\jquery\jquery.slim.min.map
 wwwroot\images\si3.jpg
 wwwroot\user\css\bootstrap.css
 wwwroot\user\css\flexslider.css

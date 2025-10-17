@@ -1,73 +1,73 @@
-﻿@model IEnumerable<Tuan06.Models.Product>
+﻿@model List<Dictionary<string, object>>
 @{
-    ViewData["Title"] = "Danh Sách Sản Phẩm";
+  ViewData["Title"] = "Danh Sách Sản Phẩm";
 }
 <div class="container mt-4">
-    <div class="d-flex justify-content-between align-items-center mb-3">
-        <h2 class="fw-bold">Danh sách sản phẩm</h2>
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h2 class="fw-bold">Danh sách sản phẩm</h2>
 
-        <a asp-action="Create" class="btn btn-success">
-            <i class="bi bi-plus-circle"></i> Thêm sản phẩm
-        </a>
-    </div>
+    <a asp-action="Create" class="btn btn-success">
+      <i class="bi bi-plus-circle"></i> Thêm sản phẩm
+    </a>
+  </div>
 
-    <table class="table table-bordered table-hover text-center align-middle">
-        <thead class="table-dark">
-            <tr>
-                <th>Mã SP</th>
-                <th>Tên SP</th>
-                <th>Đơn giá</th>
-                <th>Đơn giá KM</th>
-                <th>Hình ảnh</th>
-                <th>Số lượng tồn</th>
-                <th>Mô tả</th>
-                <th>Loại SP</th>
-                <th>Thao tác</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>@item.ProductID</td>
-                    <td>@item.ProductName</td>
-                    <td>@String.Format("{0:N0} ₫", item.Price)</td>
-                    <td>@String.Format("{0:N0} ₫", item.DiscountPrice)</td>
-                    <td>
-                        <img src="/@item.ProductImage" alt="@item.ProductName" style="width: 80px; height: 80px; object-fit: cover; border-radius: 6px;"
-                             class="mx-auto d-block" />
-                    </td>
-                    <td>@item.Quantity</td>
-                    <td>@item.ProductDescription</td>
-                    <td>@item.CategoryName</td>
-                    <td>
-                        <a asp-action="Edit" asp-route-id="@item.ProductID" class="btn btn-warning btn-sm">
-                            <i class="bi bi-pencil"></i> Sửa
-                        </a>
-                        <form asp-action="Delete" asp-route-id="@item.ProductID" method="post" style="display:inline;"
-                              onsubmit="return confirm('Bạn có chắc muốn xóa sản phẩm này không?');">
-                            <button type="submit" class="btn btn-danger btn-sm">
-                                <i class="bi bi-trash"></i> Xóa
-                            </button>
-                        </form>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
+  <table class="table table-bordered table-hover text-center align-middle">
+    <thead class="table-dark">
+      <tr>
+        <th>Mã SP</th>
+        <th>Tên SP</th>
+        <th>Đơn giá</th>
+        <th>Đơn giá KM</th>
+        <th>Hình ảnh</th>
+        <th>Số lượng tồn</th>
+        <th>Mô tả</th>
+        <th>Loại SP</th>
+        <th>Thao tác</th>
+      </tr>
+    </thead>
+    <tbody>
+      @foreach (var item in Model) {
+        <tr>
+          <td>@item["ProductID"]</td>
+          <td>@item["ProductName"]</td>
+          <td>@String.Format("{0:N0} ₫", item["Price"])</td>
+          <td>@String.Format("{0:N0} ₫", item["DiscountPrice"])</td>
+          <td>
+            <img src="/@item["ProductImage"]" alt="@item["ProductName"]"
+                 style="width: 80px; height: 80px; object-fit: cover; border-radius: 6px;"
+                 class="mx-auto d-block" />
+          </td>
+          <td>@item["Quantity"]</td>
+          <td>@item["ProductDescription"]</td>
+          <td>@item["CategoryName"]</td>
+          <td>
+            <a asp-action="Edit" asp-route-id="@item["ProductID"]" class="btn btn-warning btn-sm">
+              <i class="bi bi-pencil"></i> Sửa
+            </a>
+            <form asp-action="Delete" asp-route-id="@item["ProductID"]" method="post" style="display:inline;"
+                  onsubmit="return confirm('Bạn có chắc muốn xóa sản phẩm này không?');">
+              <button type="submit" class="btn btn-danger btn-sm">
+                <i class="bi bi-trash"></i> Xóa
+              </button>
+            </form>
+          </td>
+        </tr>
+      }
+    </tbody>
+  </table>
 </div>
 
 <style>
-    .table th {
-        text-align: center;
-    }
+  .table th {
+    text-align: center;
+  }
 
-    .table img {
-        border-radius: 8px;
-        box-shadow: 0 0 5px rgba(0,0,0,0.2);
-    }
+  .table img {
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  }
 
-    .btn {
-        margin: 0 3px;
-    }
+  .btn {
+    margin: 0 3px;
+  }
 </style>

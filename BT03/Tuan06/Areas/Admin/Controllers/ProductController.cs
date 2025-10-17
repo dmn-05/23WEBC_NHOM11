@@ -16,9 +16,6 @@ namespace Web05_Nhom11.Areas.Admin.Controllers
             _productDAL = new ProductDAL(configuration);
             _categoryDAL = new CategoryDAL(configuration);
         }
-
-      
-
         // GET: /Product/Create
         public IActionResult Create()
         {
@@ -57,18 +54,6 @@ namespace Web05_Nhom11.Areas.Admin.Controllers
             // Nếu có lỗi, nạp lại danh mục để tránh null
             ViewBag.Categories = _categoryDAL.GetAllCategories();
             return View(product);
-        }
-
-        // ✅ POST: /Product/AddCategory
-        [HttpPost]
-        public JsonResult AddCategory([FromBody] dynamic data)
-        {
-            string categoryName = data?.categoryName;
-            if (string.IsNullOrWhiteSpace(categoryName))
-                return Json(new { success = false, message = "Tên danh mục trống" });
-
-            _categoryDAL.AddCategory(categoryName);
-            return Json(new { success = true });
         }
         public IActionResult Index()
         {

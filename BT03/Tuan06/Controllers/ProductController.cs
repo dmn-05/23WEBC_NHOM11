@@ -21,7 +21,7 @@ namespace Tuan06.Controllers
             int pageSize = 12; // mỗi trang 12 sản phẩm
             int totalProducts;
 
-            var products = _productDAL.GetProductsPaged(page, pageSize, out totalProducts);
+            var products = _productDAL.GetProductsPagedFromJson(page, pageSize, out totalProducts);
 
             int totalPages = (int)Math.Ceiling((double)totalProducts / pageSize);
 
