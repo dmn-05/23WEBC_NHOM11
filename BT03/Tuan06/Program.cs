@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Tuan06.Data;
+using Tuan06.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -34,6 +35,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseSession(); //su dung session
+
+app.UseMiddleware<AuthMiddleware>();
 
 app.UseAuthorization();
 

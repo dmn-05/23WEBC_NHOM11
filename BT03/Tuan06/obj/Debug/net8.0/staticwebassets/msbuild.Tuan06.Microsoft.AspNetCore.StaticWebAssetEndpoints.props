@@ -184,13 +184,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Tuan06.c29os0qx3s.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5L\u002B/kDjvMe4dWrbBIFlsHhCwhh32\u002BJ8U72Yq3m8Flh8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1260"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225L\u002B/kDjvMe4dWrbBIFlsHhCwhh32\u002BJ8U72Yq3m8Flh8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Oct 2025 07:25:13 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1260"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225L\u002B/kDjvMe4dWrbBIFlsHhCwhh32\u002BJ8U72Yq3m8Flh8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Oct 2025 06:24:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Tuan06/Tuan06.c29os0qx3s.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Tuan06.c29os0qx3s.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c29os0qx3s"},{"Name":"integrity","Value":"sha256-5L\u002B/kDjvMe4dWrbBIFlsHhCwhh32\u002BJ8U72Yq3m8Flh8="},{"Name":"label","Value":"_content/Tuan06/Tuan06.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1260"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225L\u002B/kDjvMe4dWrbBIFlsHhCwhh32\u002BJ8U72Yq3m8Flh8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Oct 2025 07:25:13 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1260"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225L\u002B/kDjvMe4dWrbBIFlsHhCwhh32\u002BJ8U72Yq3m8Flh8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Oct 2025 06:24:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Tuan06/user/css/bootstrap.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user\css\bootstrap.css'))</AssetFile>
